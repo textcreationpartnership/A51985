@@ -1,0 +1,2315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poems on His Majesties birth and restauration His Highness Prince Rupert's and His Grace the Duke of Albemarle's naval victories : the late great pestilence and fire of London / by Abraham Markland.</title>
+            <author>Markland, Abraham, 1645-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51985</idno>
+            <idno type="STC">Wing M684</idno>
+            <idno type="STC">ESTC R32410</idno>
+            <idno type="EEBO-CITATION">12673557</idno>
+            <idno type="OCLC">ocm 12673557</idno>
+            <idno type="VID">65521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1531:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poems on His Majesties birth and restauration His Highness Prince Rupert's and His Grace the Duke of Albemarle's naval victories : the late great pestilence and fire of London / by Abraham Markland.</title>
+                  <author>Markland, Abraham, 1645-1728.</author>
+               </titleStmt>
+               <extent>[2], 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cotterell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65521:1"/>
+            <pb facs="tcp:65521:1" rendition="simple:additions"/>
+            <p>POEMS ON His Majeſties BIRTH and RESTAURATION, His Highneſs Prince Rupert's And His Grace the Duke of Albemarles NAVAL VICTORIES; The late Great PESTILENCE and FIRE of LONDON.</p>
+            <p>By <hi>ABRAHAM MARKLAND.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by JAMES COTTEREL. 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <div type="poem">
+               <pb facs="tcp:65521:2"/>
+               <pb n="1" facs="tcp:65521:2"/>
+               <head>UPON THE ANNIVERSARY OF His Majeſties BIRTH and RESTAURATION, May 29. (1667.)</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>HAve we forgot to pay this Month its due?</l>
+                  <l>And is our <hi>Soveraign</hi> gone as ſoon as come?</l>
+                  <l>Can his Return (like Him) be Baniſh'd too</l>
+                  <l>Such Kings, as <hi>CHARLES,</hi> are always coming home.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O let Him be Returning all the Year!</l>
+                  <l>And every Morn the Twenty ninth of <hi>May!</hi>
+                  </l>
+                  <l>The Sun, though old, yet ſhines as freſh and clear</l>
+                  <l>As firſt he did on the Creation-day.</l>
+               </lg>
+               <pb n="2" facs="tcp:65521:3"/>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Permit then, Mighty <hi>CHARLES,</hi> the Sacred Nine</l>
+                  <l>To ſing Your Reſtauration, and their own:</l>
+                  <l>Let them their Bays about Your Temples twine,</l>
+                  <l>And to Your Golden add a Laurel Crown.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>When <hi>Hercules</hi> was got, three Nights in one</l>
+                  <l>(Another <hi>Cerberus</hi>) together grew;</l>
+                  <l>But we ſo black a Night have undergone,</l>
+                  <l>That brought more Monſters forth than e're he ſlew.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Say, Britiſh Souls! how were ye grown ſo vile</l>
+                  <l>To give that monſtrous Tyrant your eſteem?</l>
+                  <l>So thoſe who dwell upon the Banks of <hi>Nile,</hi>
+                  </l>
+                  <l>Ador'd the Crocodile that devour'd them.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Thought ye him Valiant, or believ'd him Wiſe?</l>
+                  <l>No, 'twas the Throne that made him ſo appear:</l>
+                  <l>A ſordid vapor got into the Skies</l>
+                  <l>Is eaſily miſtaken for a Star.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Art thou that Tyrant to the Bar haſt brought</l>
+                  <l>So pious, juſt, and merciful a Prince?</l>
+                  <l>That didſt Condemn Him becauſe thou couldſt not?</l>
+                  <l>Becauſe He guilty was of Innocence?</l>
+               </lg>
+               <pb n="3" facs="tcp:65521:3"/>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>A Prince as Good as ever thou wert Bad;</l>
+                  <l>(But Arrows always at the White are driven)</l>
+                  <l>Thou didſt not <hi>CHARLES,</hi> but Piety behead:</l>
+                  <l>Who cuts off <hi>Atlas</hi> head does pull down Heaven.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Dull Fool! thou doſt but lift him to the Skies,</l>
+                  <l>And He ſtands Taller too without a Head:</l>
+                  <l>His value, being loſt, the more we prize;</l>
+                  <l>As people ſtretch out Longer when they're Dead.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Such innocent Blood might Damn and Save thee too.</l>
+                  <l>Yet were we certain by the Moan we made,</l>
+                  <l>That <hi>CHARLES</hi> in heav'n was happy; for we know</l>
+                  <l>How high the Sun is riſen, by our Shade.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>But as when proud <hi>Typhaeus</hi> did denounce</l>
+                  <l>A bold defiance to the Godds above;</l>
+                  <l>Threw Trees like Arrows, and huge Rocks like Stones;</l>
+                  <l>Himſelf a greater Thunderer than <hi>Jove.</hi>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>When tearing up an Oak; Thus, thus, cry'd He,</l>
+                  <l>From his high Seat I'll tear the Tyrant too;</l>
+                  <l>With his own Oak I'll kill him; and the Tree</l>
+                  <l>Which once was Sacred, ſhall be Curſed now.</l>
+               </lg>
+               <pb n="4" facs="tcp:65521:4"/>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>The Godds, like falling Starrs, came rowling down:</l>
+                  <l>With pride the Conqueror began to ſwell:</l>
+                  <l>When ſtraightway under <hi>Aetna</hi> he is thrown;</l>
+                  <l>And ſtead of Heaven, is poſſeſs'd of Hell.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>So fell our great Uſurper in his pride,</l>
+                  <l>When high exalted in the Royal Throne;</l>
+                  <l>VVhich (like the VVhirlwind on the day he dy'd)</l>
+                  <l>Lifted him up, only to hurl him down.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>To that eternal <hi>Aetna</hi> down he went;</l>
+                  <l>VVhere laughing; cry'd, So, ſo, 'tis wondrous well!</l>
+                  <l>The murther'd Father unto Heav'n I ſent;</l>
+                  <l>The Son has Sea and Land, and I have Hell.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Then boaſt not <hi>Lucifer,</hi> poor Rebel thou!</l>
+                  <l>For by my ſelf, my mighty ſelf I ſwear,</l>
+                  <l>If thou but offer to reſiſt me now;</l>
+                  <l>I'll Baniſh thee, and be Protector here.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>VVhat, though againſt thy Prince thou drew'ſt thy Sword?</l>
+                  <l>For this poor Act was Hell confer'd on thee?</l>
+                  <l>Though thou gave Battail to th' Almighty Lord,</l>
+                  <l>Thou never could Depoſe thy King, like Me.</l>
+               </lg>
+               <pb n="5" facs="tcp:65521:4"/>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Straight <hi>Lucifer</hi> deſcends his flaming Throne,</l>
+                  <l>Reſigns his place to One it more was due:</l>
+                  <l>Thrice did he howl with ſuch a dreadful groan,</l>
+                  <l>Made all the Devils quake, and himſelf too.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Long had Great <hi>CHARLES</hi> been toſs'd by Land and Seas,</l>
+                  <l>Finds Scepters as inconſtant as the Wind:</l>
+                  <l>And doth himſelf with Contemplation pleaſe;</l>
+                  <l>Beholds a Kingdom in his larger Mind.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>So e're the Chaos was at firſt begun,</l>
+                  <l>The great Creator did its Image view;</l>
+                  <l>The Monarch of the World ſat all alone,</l>
+                  <l>And was himſelf both King and Kingdom too.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>Yet to his Country <hi>CHARLES</hi> retain'd his love,</l>
+                  <l>And though an Exile, ſtill in <hi>England</hi> was:</l>
+                  <l>Thus in a conſtant round the Heavens move,</l>
+                  <l>Yet ne'r Excentrick from their former place.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>
+                     <hi>CHARLES</hi> all this while preſerv'd his Royal State,</l>
+                  <l>And was as Great a King without a Crown:</l>
+                  <l>He's a true Prince can trample on his Fate;</l>
+                  <l>And be a King too, even when he's none.</l>
+               </lg>
+               <pb n="6" facs="tcp:65521:5"/>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>So doth the mighty <hi>Parthian</hi> Monarch dwell,</l>
+                  <l>And all the Pomp of other Courts deride;</l>
+                  <l>Scorning a Palace, he Preferrs a Cell;</l>
+                  <l>And ſhews at once Humility and Pride.</l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>You little number of that Exil'd train,</l>
+                  <l>(And yet far more than all that never went)</l>
+                  <l>That daily could behold our Soveraign,</l>
+                  <l>How happy were you in your baniſhment!</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>For his Attendants many more had gon,</l>
+                  <l>But hop'd, though abſent, they might ſerve him here.</l>
+                  <l>A thouſand Starrs attend upon the Sun,</l>
+                  <l>Although his bright Retinue diſappear.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>Then did ill Fortune, that obſcur'd our Prince,</l>
+                  <l>Declare the virtues of His Royal youth:</l>
+                  <l>As Sacred Oracles in Myſtick ſence</l>
+                  <l>At once both Cover and Reveal the Truth.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Why brags the <hi>Spaniard,</hi> he beholds the Sun</l>
+                  <l>In his own Empire both to Riſe and Set?</l>
+                  <l>So could the <hi>Cynick</hi> in his Wooden Throne,</l>
+                  <l>And thought the Empire of his Tub as great.</l>
+               </lg>
+               <pb n="7" facs="tcp:65521:5"/>
+               <lg n="28">
+                  <head>28.</head>
+                  <l>But <hi>CHARLES</hi> would rather in contenment ſit,</l>
+                  <l>Whilſt above Crowns his ſoaring Thoughts do move:</l>
+                  <l>Like to that part of Heav'n againſt our feet,</l>
+                  <l>Which ſeems below the Earth, but is above.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>To thrice ten years our Monarch did arrive;</l>
+                  <l>The Godds beheld him with relenting Eyes;</l>
+                  <l>And now kind Heav'n thought fit he ſhould revive:</l>
+                  <l>VVhen <hi>Alexander</hi> fell, Great <hi>CHARLES</hi> did riſe.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>Then did the Spring in gawdy pomp appear,</l>
+                  <l>VVhich all the VVinter had in Exile been;</l>
+                  <l>The Trees new Garlands round their Temples wear,</l>
+                  <l>As joyful to be Crown'd, with <hi>CHARLES</hi> agen.</l>
+               </lg>
+               <lg n="31">
+                  <head>31.</head>
+                  <l>Thoſe Choriſters that heard the <hi>Thracian</hi> ſing,</l>
+                  <l>And o're his Head with joy and envy flew;</l>
+                  <l>Now chirp their pretty welcomes to their King,</l>
+                  <l>And are themſelves the Birds and <hi>Orpheus</hi> too.</l>
+               </lg>
+               <lg n="32">
+                  <head>32.</head>
+                  <l>The young Trees dance as nimbly as the VVind:</l>
+                  <l>And aged Oaks, with one foot in their Graves,</l>
+                  <l>Come after ſlowly Limping on behind,</l>
+                  <l>VVhilſt their own Trunks become their native Staves.</l>
+               </lg>
+               <pb n="8" facs="tcp:65521:6"/>
+               <lg n="33">
+                  <head>33.</head>
+                  <l>How would that Royal Tree, which lent its aid</l>
+                  <l>To your conveyance from our <hi>Engliſh</hi> Shoar;</l>
+                  <l>To ſave you once again, your Barge be made!</l>
+                  <l>And gladly turn each Branch into an Oar.</l>
+               </lg>
+               <lg n="34">
+                  <head>34.</head>
+                  <l>Lo, in what glorious pomp the Sea-gods paſs!</l>
+                  <l>Into two Ranks on either hand they brake;</l>
+                  <l>On their reflected Images they gaze;</l>
+                  <l>And ſtand Admiring at the ſhew they Make.</l>
+               </lg>
+               <lg n="35">
+                  <head>35.</head>
+                  <l>Then let <hi>Tigranes</hi> boaſt in all his pride,</l>
+                  <l>That Kings, as Foot-men, by his Coach have gon:</l>
+                  <l>The Godds attend our <hi>CHARLES,</hi> and on each ſide</l>
+                  <l>Like Lacquies by his watry Chariot run.</l>
+               </lg>
+               <lg n="36">
+                  <head>36.</head>
+                  <l>Thoſe lovely Nymphs that from the Thunderer flew,</l>
+                  <l>And gentle Rivers and ſweet Springs became;</l>
+                  <l>Wiſh, they from Springs could turn to Virgins now;</l>
+                  <l>And in the Waters meet a hotter Flame.</l>
+               </lg>
+               <lg n="37">
+                  <head>37.</head>
+                  <l>Hopes the <hi>Venetian</hi> Duke to wed the Main,</l>
+                  <l>And to eſpouſe bright <hi>Cynthia?</hi> whilſt a War</l>
+                  <l>Againſt the <hi>Turkiſh</hi> Moon he doth maintain?</l>
+                  <l>And ſo at once both Woo's and Threatens her.</l>
+               </lg>
+               <pb n="9" facs="tcp:65521:6"/>
+               <lg n="38">
+                  <head>38.</head>
+                  <l>While thus he Courts, he doth a <hi>Xerxes</hi> ſeem,</l>
+                  <l>And his gold Ring is to a Fetter grown:</l>
+                  <l>
+                     <hi>Theſſalian</hi> Exorciſts do Court like him,</l>
+                  <l>When with their charms they woo her from her Throne.</l>
+               </lg>
+               <lg n="39">
+                  <head>39.</head>
+                  <l>
+                     <hi>CHARLES</hi> is her Lord; whom cruel Fates compel</l>
+                  <l>Daily to ſuffer changes, more than She:</l>
+                  <l>
+                     <hi>CHARLES</hi> could not his misfortunes want; as well</l>
+                  <l>Her glorious Body without ſpots might be.</l>
+               </lg>
+               <lg n="40">
+                  <head>40.</head>
+                  <l>Thus doth our Monarch triumph o're the deep,</l>
+                  <l>Whilſt all the Godds Fann him a gentle gale;</l>
+                  <l>And round about him wait; as though his Ship</l>
+                  <l>The <hi>Argo</hi> were, and he in Heav'n did Sail.</l>
+               </lg>
+               <lg n="41">
+                  <head>41.</head>
+                  <l>That Star which ſhone the Twenty ninth of <hi>May,</hi>
+                  </l>
+                  <l>Again attends him at his ſecond Birth;</l>
+                  <l>Thus whilſt, <hi>Leander</hi>-like he cuts the Sea,</l>
+                  <l>Heav'n, like kind <hi>Hero,</hi> holds a Taper forth.</l>
+               </lg>
+               <lg n="42">
+                  <head>42.</head>
+                  <l>The day of his Return and Birth the ſame!</l>
+                  <l>Bleſs me ye Godds! who are not Poets now?</l>
+                  <l>When there is height of Fancy in the Theam,</l>
+                  <l>When Godds do Jeſt, and Heav'n is Witty too.</l>
+               </lg>
+               <pb n="10" facs="tcp:65521:7"/>
+               <lg n="43">
+                  <head>43.</head>
+                  <l>Who are not Poets at ſuch happy times,</l>
+                  <l>Nor Raptures can invent for <hi>CHARLES</hi> his ſake;</l>
+                  <l>May they be Poets the wrong way; and Rymes</l>
+                  <l>At the Beginning of their Verſes make.</l>
+               </lg>
+               <lg n="44">
+                  <head>44.</head>
+                  <l>When as the Theam's a Miracle, the Wit</l>
+                  <l>On ſuch a Miracle ſhould be one too:</l>
+                  <l>Like that, it ſhould both Torture and Delight,</l>
+                  <l>And even pleaſe us, 'cauſe it doth Not ſo.</l>
+               </lg>
+               <lg n="45">
+                  <head>45.</head>
+                  <l>Let not dull Souls in humble ſtrains appear;</l>
+                  <l>And think that nothing can be Clear and High:</l>
+                  <l>The ſoaring Lark more eaſie cuts the Air,</l>
+                  <l>And Smoother, as he doth more Lofty fly.</l>
+               </lg>
+               <lg n="46">
+                  <head>46.</head>
+                  <l>Then tell me, Muſe, how on the happy day</l>
+                  <l>Of <hi>CHARLES</hi> his Birth, a glorious Star at noon</l>
+                  <l>Did to the world his bolder Beams diſplay;</l>
+                  <l>And, like an Eagle, Gaz'd upon the Sun.</l>
+               </lg>
+               <lg n="47">
+                  <head>47.</head>
+                  <l>Speak of his Exile, wond'rous as his Birth;</l>
+                  <l>In Forraign Realms no leſs a King than Here:</l>
+                  <l>So Skies afar off ſeem to touch the Earth,</l>
+                  <l>Yet are as High as over-head they were.</l>
+               </lg>
+               <pb n="11" facs="tcp:65521:7"/>
+               <lg n="48">
+                  <head>48.</head>
+                  <l>But now, dear Muſe, his Reſtauration ſing;</l>
+                  <l>To joyful welcomes let thy Lyre accord;</l>
+                  <l>'Tis not more pleaſant to reſound our King</l>
+                  <l>Was this day Born, than that he was Reſtor'd.</l>
+               </lg>
+               <lg n="49">
+                  <head>49.</head>
+                  <l>So when in Groves a Baniſh'd Virgin tryes</l>
+                  <l>VVith her melodious voice to eaſe her wrong,</l>
+                  <l>Still the Return more ſweetly doth ſurprize,</l>
+                  <l>And th' Eccho's more delightful than the Song.</l>
+               </lg>
+               <lg n="50">
+                  <head>50.</head>
+                  <l>Nor let the Vulgar count Kings Births like theirs;</l>
+                  <l>Kings then are Born, when they begin to Raign;</l>
+                  <l>Thus <hi>CHARLES</hi> his Life begins at thirty years;</l>
+                  <l>Like our firſt Parent, he is Born a Man.</l>
+               </lg>
+               <lg n="51">
+                  <head>51.</head>
+                  <l>Through thoſe white Rocks, which do our coaſts adorn,</l>
+                  <l>Our Monarch ſails, and now on Shoar is driven:</l>
+                  <l>For when the wandring Godds from Earth return,</l>
+                  <l>Still o're the <hi>Galaxy</hi> they paſs to Heaven.</l>
+               </lg>
+               <lg n="52">
+                  <head>52.</head>
+                  <l>Let other Princes boaſt their cruel might,</l>
+                  <l>VVhat foes they ſlew, what towns by war they took:</l>
+                  <l>
+                     <hi>CHARLES</hi> can o'recome three Kingdoms, and ne'r fight;</l>
+                  <l>Like beauteous Queens, he Conquers with a Look.</l>
+               </lg>
+               <pb n="12" facs="tcp:65521:8"/>
+               <lg n="53">
+                  <head>53.</head>
+                  <l>Three joyful Realms he leads along enchain'd:</l>
+                  <l>Thus we of old in the ſame Charior ſee</l>
+                  <l>A Captive with a glorious Victor joyn'd,</l>
+                  <l>The Captive Triumphs too as well as he.</l>
+               </lg>
+               <lg n="54">
+                  <head>54.</head>
+                  <l>How the glad Nations do their Conquer or meet,</l>
+                  <l>Embrace their thraldom, and their Fetters kiſs!</l>
+                  <l>So lies a Lover at his Miſtreſs feet,</l>
+                  <l>And thinks his Slavery his greateſt Bliſs.</l>
+               </lg>
+               <lg n="55">
+                  <head>55.</head>
+                  <l>Hark how the Cannon roar, whilſt every blow</l>
+                  <l>Mounts to the Skie, and cuts the trembling Air;</l>
+                  <l>Heav'n it ſelf eccho's with the noiſe, as though</l>
+                  <l>Another <hi>CHARLES</hi> too were Returning There.</l>
+               </lg>
+               <lg n="56">
+                  <head>56.</head>
+                  <l>So when the Prieſts of <hi>Bacchus</hi> found their God,</l>
+                  <l>With the ſhrill Trumpet and the winding Horn;</l>
+                  <l>VVith ſounding Inſtruments they play aloud;</l>
+                  <l>Loud, as the Thunder wherein he was Born.</l>
+               </lg>
+               <lg n="57">
+                  <head>57.</head>
+                  <l>But ah, who's That from the cold Climate comes!</l>
+                  <l>VVhat, Loyal <hi>MONK</hi> from fartheſt <hi>Scotland?</hi> ſo</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earls ſpring from Rocks; ſo Odours and Perfumes</l>
+                  <l>Do in the wilde <hi>Arabian</hi> Deſerts grow.</l>
+               </lg>
+               <pb n="13" facs="tcp:65521:8"/>
+               <lg n="58">
+                  <head>58.</head>
+                  <l>That gallant Satyriſt would curſe his VVit,</l>
+                  <l>And hate it like bad Verſes, did he know it;</l>
+                  <l>Againſt himſelf he would a Satyr write;</l>
+                  <l>And turn his <hi>Rebel-Scot</hi> to Rebel-Poet.</l>
+               </lg>
+               <lg n="59">
+                  <head>59.</head>
+                  <l>
+                     <hi>MONK</hi> ſaves them all, with ſweet and gentle charms</l>
+                  <l>Redeems the Nation from eternal night:</l>
+                  <l>Thus what <hi>Alcides</hi> did with Toil and Arms,</l>
+                  <l>Sweet <hi>Orpheus</hi> eas'ly did, and with Delight.</l>
+               </lg>
+               <lg n="60">
+                  <head>60.</head>
+                  <l>Not with his Sword but Harp he Hell controul'd;</l>
+                  <l>'Twas that made Trees and Rocks come dancing thus:</l>
+                  <l>The glad <hi>Aeolian</hi> Stone o're mountains roll'd,</l>
+                  <l>And was it ſelf both Stone and <hi>Siſyphus.</hi>
+                  </l>
+               </lg>
+               <lg n="61">
+                  <head>61.</head>
+                  <l>How <hi>MONK</hi> betray'd <hi>Scotch-Engliſh, Engliſh-Scots</hi>
+                  </l>
+                  <l>Into their Loyalty! how did he ſhrowd</l>
+                  <l>From both their Generals his warlike Plots!</l>
+                  <l>Both cloſe and ſtrong, like Thunder in a Cloud.</l>
+               </lg>
+               <lg n="62">
+                  <head>62.</head>
+                  <l>
+                     <hi>MONK</hi> to each Land doth their loſt Honor bring;</l>
+                  <l>At once pretends to Looſe and Wins the game:</l>
+                  <l>He to both Realms Delivers up their King,</l>
+                  <l>And raiſes his chief Glory from their Shame.</l>
+               </lg>
+               <pb n="14" facs="tcp:65521:9"/>
+               <lg n="63">
+                  <head>63.</head>
+                  <l>See where with Mighty <hi>CHARLES</hi> He comes along;</l>
+                  <l>VVhilſt full-throng'd Streets upon the Houſes grow:</l>
+                  <l>So in green Tapeſtry are Buildings hung,</l>
+                  <l>It ſeems a VVilderneſs and City too.</l>
+               </lg>
+               <lg n="64">
+                  <head>64.</head>
+                  <l>The <hi>Engliſh</hi> Youth appear'd in Armor bright,</l>
+                  <l>Their ſparkling Swords they Brandiſh'd in the Skie;</l>
+                  <l>Vow'd to defend their <hi>CHARLES;</hi> and in His right</l>
+                  <l>All Others and Themſelves they did Defie.</l>
+               </lg>
+               <lg n="65">
+                  <head>65.</head>
+                  <l>Hark, how the Bells proclaim their joy! and tell</l>
+                  <l>This day's glad Triumph with their Artful breath:</l>
+                  <l>The Spheres too dance; and every Golden Bell</l>
+                  <l>A glorious Angel for its Ringer hath.</l>
+               </lg>
+               <lg n="66">
+                  <head>66.</head>
+                  <l>Now night approach'd; and all the Starry Plain,</l>
+                  <l>Like the glad City, did with Bonfires throng:</l>
+                  <l>But ah, dear Heav'n! little thought <hi>London</hi> then</l>
+                  <l>It ſelf ſhould be a Bonfire too e're long.</l>
+               </lg>
+               <lg n="67">
+                  <head>67.</head>
+                  <l>Such are the fatal Ruins all about,</l>
+                  <l>The diſmal alteration is ſo great;</l>
+                  <l>That viewing it, Great <hi>CHARLES</hi> Himſelf might doubt</l>
+                  <l>VVhether or no He were Returned yet.</l>
+               </lg>
+               <pb n="15" facs="tcp:65521:9"/>
+               <lg n="68">
+                  <head>68.</head>
+                  <l>Stop, ſtop, poor Muſe! the Fire will crack thy ſtrings,</l>
+                  <l>And the Still-raging Flame will burſt thy Lute:</l>
+                  <l>Not all thy Fountains, nor <hi>Caſtalian</hi> Springs,</l>
+                  <l>Can quench this Fire, although Already Out.</l>
+               </lg>
+               <lg n="69">
+                  <head>69.</head>
+                  <l>Poets with Verſe, as Fluent as her Thames;</l>
+                  <l>With Stanzaes, as Her ſelf, Majeſtick too;</l>
+                  <l>In vain Deplore; unleſs with mighty Rymes</l>
+                  <l>They could, <hi>Amphion-</hi> like, Rebuild her New.</l>
+               </lg>
+               <lg n="70">
+                  <head>70.</head>
+                  <l>So when the Phoenix dyes, the Birds do meet;</l>
+                  <l>And while She's lying in her ſpicy urn,</l>
+                  <l>The Winged Poets round about her Sit,</l>
+                  <l>And dolefully both Sing, and ſee her Burn.</l>
+               </lg>
+               <lg n="71">
+                  <head>71.</head>
+                  <l>Thus fell that City, which did Fleets defie,</l>
+                  <l>Nor could by bloody Civil VVars expire:</l>
+                  <l>So <hi>Porſia</hi> when She ſaw ſhe could not Dye</l>
+                  <l>By Sword or Flood, diſpatch'd her ſelf by Fire.</l>
+               </lg>
+               <lg n="72">
+                  <head>72.</head>
+                  <l>Ah, <hi>London!</hi> how ſhall we thy fate deplore?</l>
+                  <l>
+                     <hi>England</hi>'s Metropolis, and <hi>Europe</hi>'s too!</l>
+                  <l>Behold, O Heav'ns! our mighty King Before,</l>
+                  <l>Our very Kingdom is Beheaded Now.</l>
+               </lg>
+               <pb n="16" facs="tcp:65521:10"/>
+               <lg n="73">
+                  <head>73.</head>
+                  <l>What wealthy Sums and Subſides were loſt!</l>
+                  <l>Which as a tribute for the Hearths were pay'd:</l>
+                  <l>Strange! Chimnies ſhould be Ruin'd, when almoſt</l>
+                  <l>The City's nothing but a Chimney made.</l>
+               </lg>
+               <lg n="74">
+                  <head>74.</head>
+                  <l>How in a moment the devouring flame</l>
+                  <l>Flew o're the Streets, like Lightning through the Skies.</l>
+                  <l>Thoſe Poets err who fancy <hi>Vulcan</hi> Lame;</l>
+                  <l>Swift, as his little winged Son he Flies.</l>
+               </lg>
+               <lg n="75">
+                  <head>75.</head>
+                  <l>
+                     <hi>London</hi> was riſen to that Greatneſs now</l>
+                  <l>That, like the Fire, ſhe did Her ſelf Devour:</l>
+                  <l>So mighty Empires when too large they grow,</l>
+                  <l>Fall by their ſtrength, O'recome by their Own Power.</l>
+               </lg>
+               <lg n="76">
+                  <head>76.</head>
+                  <l>VVaſte lye her Structures and her Stately VVall;</l>
+                  <l>O're which, like <hi>Babylon</hi>'s, the Chariots ride;</l>
+                  <l>As Famous in her Ruin and her Fall,</l>
+                  <l>As was that glorious City in its Pride.</l>
+               </lg>
+               <lg n="77">
+                  <head>77.</head>
+                  <l>The Silver <hi>Thames</hi> fair <hi>London</hi> ſo adorns,</l>
+                  <l>That one might think 'twere Paradiſe Reſtor'd:</l>
+                  <l>But now in ſuch a dreadful light ſhe burns,</l>
+                  <l>That Paradiſe it ſelf's the Flaming Sword.</l>
+               </lg>
+               <pb n="17" facs="tcp:65521:10"/>
+               <lg n="78">
+                  <head>78.</head>
+                  <l>Thus the Dead Queen with Lamps about her lies,</l>
+                  <l>And hangs the City round in mourning Clouds;</l>
+                  <l>Mounting her waving Flames into the Skies,</l>
+                  <l>Seems both to Threaten and Implore the Godds.</l>
+               </lg>
+               <lg n="79">
+                  <head>79.</head>
+                  <l>Bleſs me! ah, what do I behold? who's That!</l>
+                  <l>Can a King Weep? are Tears for ſuch as Him?</l>
+                  <l>How Sorrow robs Him of his Royal State!</l>
+                  <l>All things Uneven in the Water ſeem.</l>
+               </lg>
+               <lg n="80">
+                  <head>80.</head>
+                  <l>Thou Miracle of Kings! whoſe pious Tears</l>
+                  <l>Adorn thy Crown more than its Jewels do:</l>
+                  <l>Lo ev'n in Weeping He Supream appears,</l>
+                  <l>As though He'd be a King in Sorrow too.</l>
+               </lg>
+               <lg n="81">
+                  <head>81.</head>
+                  <l>How from His eyes the pretious drops do fall!</l>
+                  <l>(So <hi>Jove</hi> appear'd, when turn'd a Golden Rain:)</l>
+                  <l>The Sun will draw His Tears up, turn them all</l>
+                  <l>To Falling Stars, and weep them o're Again.</l>
+               </lg>
+               <lg n="82">
+                  <head>82.</head>
+                  <l>How great, how glorious, and how lovely ſhone</l>
+                  <l>Our Monarch Kneeling unto heav'n in tears!</l>
+                  <l>Humility Exalts him: For the Sun</l>
+                  <l>As he is Lower, Greater he appears.</l>
+               </lg>
+               <pb n="18" facs="tcp:65521:11"/>
+               <lg n="83">
+                  <head>83.</head>
+                  <l>Now call'd He on His God; and unto Him</l>
+                  <l>His humble Soul in Silent Whiſpers rear'd;</l>
+                  <l>Like the harmonious Sphaeres, which men eſteem</l>
+                  <l>The Sweeteſt Muſick, though 'twas never Hear'd.</l>
+               </lg>
+               <lg n="84">
+                  <head>84.</head>
+                  <l>Then riſing up, thus He began to mourn:</l>
+                  <l>Was this your Goodneſs, this your Kind intent?</l>
+                  <l>O cruel Heavens! And could not I Return,</l>
+                  <l>Unleſs my Kingdom ſuffer'd Baniſhment?</l>
+               </lg>
+               <lg n="85">
+                  <head>85.</head>
+                  <l>But 'tis not you alone theſe judgements bring;</l>
+                  <l>There's Treaſon too: And dare thoſe Rebels ſtill</l>
+                  <l>Provoke the wrath of an Incenſed King?</l>
+                  <l>Who with my Touch, as well as Cure, can Kill.</l>
+               </lg>
+               <lg n="86">
+                  <head>86.</head>
+                  <l>Were I but certain that this flame proceeds</l>
+                  <l>From <hi>French</hi> deſign; by my ſevere commands</l>
+                  <l>Home ſhould they go; and carry their own Heads,</l>
+                  <l>Juſt like their Great St. <hi>Dennis,</hi> in their Hands.</l>
+               </lg>
+               <lg n="87">
+                  <head>87.</head>
+                  <l>In vain their Innocency they avouch;</l>
+                  <l>So Snowie <hi>AEtna</hi>'s cover'd o're with VVhite,</l>
+                  <l>Yet Fire's Beneath: no marveil they ſo much.</l>
+                  <l>In Aſhes and in Reliques take delight.</l>
+               </lg>
+               <pb n="19" facs="tcp:65521:11"/>
+               <lg n="88">
+                  <head>88.</head>
+                  <l>Still we will Riſe, ev'n whilſt we are Depreſt;</l>
+                  <l>To Heav'n, which beat us Down, we will Aſcend:</l>
+                  <l>That gallant Valor born in <hi>Engliſh</hi> breaſts,</l>
+                  <l>Like Fire it ſelf, doth always Upwards Tend.</l>
+               </lg>
+               <lg n="89">
+                  <head>89.</head>
+                  <l>Thus ſpoke Great <hi>CHARLES:</hi> the joyful people bow,</l>
+                  <l>VVhom with a warmer Flame he doth inſpire;</l>
+                  <l>Their City they almoſt forgot; as though</l>
+                  <l>
+                     <hi>CHARLES,</hi> like the Sun, too could Extinguiſh Fire.</l>
+               </lg>
+               <lg n="90">
+                  <head>90.</head>
+                  <l>Cloſe by our King the Valiant <hi>YORK</hi> we See;</l>
+                  <l>(For the Next Star to <hi>Jupiter</hi> is <hi>Mars.</hi>)</l>
+                  <l>Fly fooliſh <hi>Vulcan!</hi> or He'll Fetter Thee,</l>
+                  <l>As thou His Brother once, the God of VVarrs.</l>
+               </lg>
+               <lg n="91">
+                  <head>91.</head>
+                  <l>Thy Chains are Smooth and Tender as the Curls</l>
+                  <l>Of the fair Goddeſs fetter'd in the Snare;</l>
+                  <l>Soft are the Links which He about them hurls,</l>
+                  <l>Soft as the Golden Beams, Betray'd them, are.</l>
+               </lg>
+               <lg n="92">
+                  <head>92.</head>
+                  <l>
+                     <hi>YORK</hi> for Chain-Bullets and his Guns doth call;</l>
+                  <l>Th'inſulting foe, cries He, ſhall ſoon retire;</l>
+                  <l>VVith one blow will I make the Victor fall;</l>
+                  <l>VVith Flames I'll Quench it, and Burn out the Fire.</l>
+               </lg>
+               <pb n="20" facs="tcp:65521:12"/>
+               <lg n="93">
+                  <head>93.</head>
+                  <l>Straight He commands a skilful Souldier by</l>
+                  <l>To lay a Barrel to ſome building's prop:</l>
+                  <l>Then Smiling, cries, as He beholds it fly;</l>
+                  <l>Juſt ſo, my Friends, I blew Great <hi>Opdam</hi> Up.</l>
+               </lg>
+               <lg n="94">
+                  <head>94.</head>
+                  <l>Lo, a <hi>Dutch</hi> Eaſt-wind doth its aid afford!</l>
+                  <l>Stay, Traytor, Stay! ah, whither doſt thou blow?</l>
+                  <l>Cannot my Word Repel thee? then my Sword</l>
+                  <l>Shall Beat thee back again upon the foe.</l>
+               </lg>
+               <lg n="95">
+                  <head>95.</head>
+                  <l>Ah <hi>London!</hi> muſt I ſee thee thus expire,</l>
+                  <l>When all the Ocean's ſubject unto Me?</l>
+                  <l>So <hi>Neptune</hi> once beheld His <hi>Troy</hi> on fire,</l>
+                  <l>Yet could not Quench the flame with all His Sea.</l>
+               </lg>
+               <lg n="96">
+                  <head>96.</head>
+                  <l>Great <hi>YORK</hi> no longer can abſtain from tears;</l>
+                  <l>His Pity now his Courage overcame:</l>
+                  <l>He well deſerves the Title which He bears,</l>
+                  <l>When (like a Roſe) He Weeps before the Flame.</l>
+               </lg>
+               <lg n="97">
+                  <head>97.</head>
+                  <l>Now the proud ſoe grew bolder; then he ſhakes</l>
+                  <l>His Scarlet Streamers, and to battail flew;</l>
+                  <l>Converting all things into Flame, and makes</l>
+                  <l>Himſelf the Victor and the Trophy too.</l>
+               </lg>
+               <pb n="21" facs="tcp:65521:12"/>
+               <lg n="98">
+                  <head>98.</head>
+                  <l>He marches forward, nor the Tower fears;</l>
+                  <l>With her own Arms he'll vanquiſh her; and waſte</l>
+                  <l>The ſpoils and glories of a Thouſand years;</l>
+                  <l>And Conquer Battails many Ages paſt.</l>
+               </lg>
+               <lg n="99">
+                  <head>99.</head>
+                  <l>Loud as her Cannon did her Lyons roar;</l>
+                  <l>But then her Guardian roſe, and ſtopt the ſtream:</l>
+                  <l>Th'affrighted foe ſtood trembling, and fear'd more</l>
+                  <l>The brave Lieutenant, than the Lyons Him.</l>
+               </lg>
+               <lg n="100">
+                  <head>100.</head>
+                  <l>Back to the Royal Burſe in rage he flings,</l>
+                  <l>And threatning to repair his honor; vents</l>
+                  <l>His fury on the Statues of our Kings;</l>
+                  <l>No more their Statues, but their Monuments.</l>
+               </lg>
+               <lg n="101">
+                  <head>101.</head>
+                  <l>So when of old the Capitol was fir'd,</l>
+                  <l>The Marble Godds too with their Temple burn'd:</l>
+                  <l>
+                     <hi>Vulcan</hi> himſelf in his Own Flames expir'd;</l>
+                  <l>And <hi>Jove</hi> a Scorched Thunder-bolt was turn'd.</l>
+               </lg>
+               <lg n="102">
+                  <head>102.</head>
+                  <l>This that Exchange, where wealthly Merchants meet</l>
+                  <l>To viſit Forreign Countries; and with eaſe</l>
+                  <l>Travail o're all the World, as though they ſate</l>
+                  <l>In their own Ships and Sailed o're the Seas.</l>
+               </lg>
+               <pb n="22" facs="tcp:65521:13"/>
+               <lg n="103">
+                  <head>103.</head>
+                  <l>Enough, thou cruel Conqueror, return <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>A<gap reason="illegible" resp="#UOM" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap> our Great Cathedrall what, wilt thou</l>
+                  <l>VVith wicked pride <hi>Diana</hi>'s Temple burn?</l>
+                  <l>Be both <hi>Heroſtratus</hi> and the Fire too?</l>
+               </lg>
+               <lg n="104">
+                  <head>104.</head>
+                  <l>Lo now the Church ſhines in as great a Light</l>
+                  <l>As once from heav'n on the Apoſtle came:</l>
+                  <l>St. <hi>Peter</hi>'s Abbey trembled at the ſight,</l>
+                  <l>And (like Himſelf) was VVarm'd againſt the Flame.</l>
+               </lg>
+               <lg n="105">
+                  <head>105.</head>
+                  <l>By this time all aſſiſtance was in vain;</l>
+                  <l>The very Temples become Victims too;</l>
+                  <l>Cities are Martyrs turn'd, as well as Men;</l>
+                  <l>And Tombs and Graves themſelves are Buried now.</l>
+               </lg>
+               <lg n="106">
+                  <head>106.</head>
+                  <l>So you, Fam'd Pyramids, whom Kings did build</l>
+                  <l>To be Their Tombs, ſhall be your Own e're long:</l>
+                  <l>The <hi>Mauſolaeum</hi> unto fate ſhall yeild,</l>
+                  <l>And Vaniſh into th' Air, in which it Hung.</l>
+               </lg>
+               <lg n="107">
+                  <head>107.</head>
+                  <l>Alas, we need no Brazen Pillar raiſe;</l>
+                  <l>Strangers ſhall come from ev'ry forraign land,</l>
+                  <l>Themſelves to Monumental Pillars gaze,</l>
+                  <l>And the Spectators ſhall the Statues ſtand.</l>
+               </lg>
+               <pb n="23" facs="tcp:65521:13"/>
+               <lg n="108">
+                  <head>108.</head>
+                  <l>Thus the fair Queen doth in her aſhes grieve;</l>
+                  <l>Her Dwellings now her Sepulchre are made:</l>
+                  <l>So <hi>Cleopatra</hi> built her Tomb alive,</l>
+                  <l>And Dwelt i'th' Monument where ſhe lay Dead.</l>
+               </lg>
+               <lg n="109">
+                  <head>109.</head>
+                  <l>Then, <hi>London,</hi> let ſome <hi>Pindar</hi> raiſe thee thence;</l>
+                  <l>Flames cannot harm thee, wert thou once built Thus:</l>
+                  <l>Though Fire again (like the <hi>Pellaean</hi> Prince)</l>
+                  <l>Sack'd the whole Town, 'twould ſpare the Poet's-houſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:65521:14"/>
+               <pb n="25" facs="tcp:65521:14"/>
+               <head>To the two Moſt ILLUSTRIOUS &amp; INVINCIBLE His HIGHNESS PRINCE RUPERT, And his GRACE The Duke of ALBEMARLE Upon their Victories againſt the <hi>Dutch.</hi>
+               </head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>WHen our great Poets your Return had roar'd,</l>
+                  <l>As though they would your Ship with Verſes <hi>Board;</hi>
+                  </l>
+                  <l>VVhen they ſuch whole Broad-ſides let fly,</l>
+                  <l>So that they ſeem'd to be</l>
+                  <l>Like <hi>Royal Soveraigns</hi> of Poetry:</l>
+                  <l>Then I preſum'd I might, Great Sirs, like you,</l>
+                  <l>Send out my little <hi>Fanfan</hi> too:</l>
+                  <l>VVhen for a <hi>Helicon</hi> I have all the Sea;</l>
+                  <l>And every Rock will a <hi>Parnaſſus</hi> be.</l>
+                  <l>Nay, and my <hi>Fanfan</hi> here doth nothing vary</l>
+                  <l>From Yours (which almoſt had <hi>De Ruyter</hi> ſunk;)</l>
+                  <l>For This doth alſo but Two Great Guns carry,</l>
+                  <l>The Thundring R<g ref="char:V">Ʋ</g>PERT and the Dreadful <hi>MONK.</hi>
+                  </l>
+               </lg>
+               <pb n="26" facs="tcp:65521:15"/>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Lo! yonder both the Navies come;</l>
+                  <l>Whilſt <hi>Neptune,</hi> but Rere-admiral of the Sea,</l>
+                  <l>Drives all the trembling Nymphs away,</l>
+                  <l>And with his Trident makes more room:</l>
+                  <l>The golden Ships make ſuch a glorious Sight,</l>
+                  <l>You'd think it were a <hi>Triumph,</hi> not a <hi>Fight:</hi>
+                  </l>
+                  <l>And yet they look ſo brave and ſtout, as though</l>
+                  <l>Both Sides would overthrow.</l>
+                  <l>See where the <hi>Belgick</hi> Navy doth appear,</l>
+                  <l>VVith a Hoghen Moghen <hi>French-man</hi> there,</l>
+                  <l>And then a Mounſieur <hi>Myn Heer!</hi>
+                  </l>
+                  <l>Never was ſuch a Medley ſeen till now,</l>
+                  <l>The <hi>French-men</hi> are Themſelves the <hi>Quelk-choſe</hi> too:</l>
+                  <l>Ye Bedlam <hi>Dutch,</hi> were ye ſtark mad</l>
+                  <l>To call ſuch Leachers to your aid?</l>
+                  <l>They'll not be <hi>your</hi> Protectors but your VVives,</l>
+                  <l>They will not <hi>Save</hi> but <hi>Get</hi> you Lives.</l>
+                  <l>On what Diſgrace and Shame you run?</l>
+                  <l>No marveil your Fleet came in a Horned Moon.</l>
+                  <l>VVhat? did you think That Form might lucky be,</l>
+                  <l>Becauſe the Moon is Miſtreſs of the Sea?</l>
+                  <l>Hence <hi>Dutch!</hi> our Fleet's in view, whoſe very Sight</l>
+                  <l>Is able to o'recome without a Fight.</l>
+                  <l>The <hi>Engliſh</hi> Youth their Arms ſo took,</l>
+                  <l>And to their Ships ſo ſpeedily did hye,</l>
+                  <l>As though Themſelves, like Ships, with Sails did fly:</l>
+                  <l>Their friends and homes they all forſook,</l>
+                  <l>The Kingdom too (as once the King) doth lye within an Oak.</l>
+               </lg>
+               <pb n="27" facs="tcp:65521:15"/>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>Behold, the <hi>Royal Soveraign</hi> comes on!</l>
+                  <l>It ſelf a Fleet alone:</l>
+                  <l>O how the Ocean's cover'd o're!</l>
+                  <l>The Sea had many times before</l>
+                  <l>Drown'd Men and Ships, but now</l>
+                  <l>The Sea it ſelf and Water's Drowned too:</l>
+                  <l>Whilſt <hi>Triton</hi> with the Load</l>
+                  <l>Of <hi>R<g ref="char:V">Ʋ</g>PERT-MONK</hi> upon his back grows proud;</l>
+                  <l>And thinks that He hath got the odds</l>
+                  <l>Of <hi>Atlas,</hi> for He onely bears</l>
+                  <l>The Heavens and Stars,</l>
+                  <l>But <hi>Triton</hi> bears the <hi>Gods.</hi>
+                  </l>
+                  <l>The Sun admires to ſee his watry Bed</l>
+                  <l>Blockt up with ſhips and covered;</l>
+                  <l>And fears leſt (like the Drunk <hi>Dutch</hi> Poet) he ſhou'd</l>
+                  <l>Be forc'd to take up his Night's Lodging in a Wood.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Have ye, O <hi>Dutch,</hi> forgot the laſt years work,</l>
+                  <l>And valiant deeds perform'd by Royal <hi>YORK!</hi>
+                  </l>
+                  <l>Who when the <hi>Belgike</hi> Lyon He had ſlain</l>
+                  <l>(Like <hi>Hercules</hi>) with the Spoils returned home again!</l>
+                  <l>Come hither <hi>Dutch,</hi> and if thou want</l>
+                  <l>Spirit or Courage, do but once</l>
+                  <l>The mighty Name of <hi>YORK</hi> pronounce,</l>
+                  <l>The mighty Name will make thee Valiant:</l>
+                  <l>And yet be careful what you do,</l>
+                  <l>The very Name will Beat thee too.</l>
+                  <pb n="28" facs="tcp:65521:16"/>
+                  <l>
+                     <hi>YORK!</hi> how I tremble at the word!</l>
+                  <l>And now I wiſh I could a while</l>
+                  <l>Lay aſide this fooliſh Quill,</l>
+                  <l>And VVrite (as He doth Conquer) with a Sword.</l>
+                  <l>O that great day when on the Deck He ſtood,</l>
+                  <l>Like a ſtrong Tower upon an Elephant!</l>
+                  <l>When an unhappy Shot did paint</l>
+                  <l>His Bluſhing Cheeks in his Friends Blood;</l>
+                  <l>Straight through the Enemy He tears,</l>
+                  <l>As though He'd waſh it off with Theirs:</l>
+                  <l>And now the Blood of Thouſand <hi>Belgike</hi> Souls</l>
+                  <l>Swims in their brim-ful Ships, like Wooden Bowls:</l>
+                  <l>But ſeeing <hi>Opdam</hi>'s caſe is ſuch</l>
+                  <l>He cannot go without a Crutch,</l>
+                  <l>Away He ſends him in a Fiery Coach.</l>
+                  <l>And yet there is no need,</l>
+                  <l>'Cauſe the Beſprinkled Duke eſcap'd the Fray,</l>
+                  <l>To marke the joyful day in Red,</l>
+                  <l>The <hi>Duke</hi> Himſelf's the Holy-day.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>But now they mad and deſperate grow,</l>
+                  <l>Hating both Us and Themſelves too:</l>
+                  <l>With ſhame of their late Overthrow again they riſe,</l>
+                  <l>And Valiant grow by Cowardize;</l>
+                  <l>And yet this Second Conqueſt ours had been,</l>
+                  <l>Had not then fell the brave couragious <hi>Mynn:</hi>
+                  </l>
+                  <l>For, Valiant Captain, at the death of Thee</l>
+                  <l>We Loſt even when we Got the Victorie:</l>
+                  <pb n="29" facs="tcp:65521:16"/>
+                  <l>Thy Fall not Men alone</l>
+                  <l>But Ships lament; each Sail</l>
+                  <l>Not with wind, but Sighs doth ſwell;</l>
+                  <l>And Cannon Shoot not off, but Groan.</l>
+                  <l>The Fire-ſhip which Great CHARLES for love of Thee</l>
+                  <l>Gave to thy Sea-men, He</l>
+                  <l>Meant it thy Funeral-Pile ſhould be.</l>
+                  <l>Let not our Warlike Captain then</l>
+                  <l>Be Buried like other men:</l>
+                  <l>Let him not Duſt and Aſhes have,</l>
+                  <l>Caſt Gun-powder upon him in his Grave;</l>
+                  <l>Throw not in rotten dead-mens Bones,</l>
+                  <l>But Charged Guns;</l>
+                  <l>Cover his Grave with Bullets, not with Stones;</l>
+                  <l>Do what you will with other Dead;</l>
+                  <l>Wrap <hi>Myun</hi> up in a Cannon, not in Lead.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>Thou warlike Soul! ah whither doſt thou go?</l>
+                  <l>Doſt thou thine Enemies ſtill Perſue?</l>
+                  <l>And wilt thou Fight with them below?</l>
+                  <l>And Kill ev'n their Ghoſts too?</l>
+                  <l>Where will the <hi>Dutch-men</hi> Fly? our Kings Great Brother</l>
+                  <l>Hath driven them out of This World, and <hi>Mynn</hi> driver them out of Th' Other</l>
+                  <l>Go mighty Spirit then; look all about</l>
+                  <l>The Shades, and find the Fatal Spinſters out;</l>
+                  <l>And when thou meet'ſt with any <hi>Dutch</hi> Threads there,</l>
+                  <l>Cut them as faſt as they our Tackle here.</l>
+                  <l>But <hi>Mynn</hi> is gon! for whom 'tis not enough</l>
+                  <l>To ſay, He's Dead; ſay rather, He's Shot off!</l>
+                  <pb n="30" facs="tcp:65521:17"/>
+                  <l>Thoſe Holes which Bullets in his Fleſh did tear,</l>
+                  <l>Not VVounds, but Port-holes are.</l>
+                  <l>Yet brag not <hi>Dutch!</hi> we (like good Gameſters) then</l>
+                  <l>A little ſuffer'd you to win,</l>
+                  <l>Only in hopes to make you Play agen.</l>
+                  <l>Still for all this we bravely kept the Sea,</l>
+                  <l>And who the Conquerors were, 'tis hard to tell;</l>
+                  <l>So that your highly-boaſted Victory</l>
+                  <l>Seems (like your <hi>Eraſmus</hi>) to hang 'twixt Heav'n and Hell.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>Lo! the third time they're lanch'd into the deep;</l>
+                  <l>But not to fight with us, but with our Sheep:</l>
+                  <l>So once a mighty Army rais'd at <hi>Rome,</hi>
+                  </l>
+                  <l>Conquer'd ſome Cockles, and Returned home.</l>
+                  <l>But ſtay <hi>Dutch!</hi> not ſo faſt! we'll have you know</l>
+                  <l>There's Valour in our <hi>Engliſh</hi> Cattle too.</l>
+                  <l>See where the pretty Sheep march to the field,</l>
+                  <l>Brave Souldiers ſure that with Buff-coats are Born:</l>
+                  <l>The Ram their Captain is, whoſe Horn</l>
+                  <l>May ſerve for Helmet, Spear, and Shield;</l>
+                  <l>The Bell-weathers the Heralds are,</l>
+                  <l>VVho not with Trumpets do denounce a VVar;</l>
+                  <l>But, like brave <hi>Scythians,</hi> who (as ſtory tells)</l>
+                  <l>Sounded Alarums with their jingling Bells.</l>
+                  <l>To fight for <hi>CHARLES,</hi> for ſuch a Prince as He,</l>
+                  <l>Each Lamb an angry VVolf will be;</l>
+                  <l>The Ram, that even Dead can VValls o'rethrow,</l>
+                  <l>VVhat will He do Alive, and for <hi>CHARLES</hi> too?</l>
+                  <pb n="31" facs="tcp:65521:17"/>
+                  <l>Thou gallant Ram come forward then,</l>
+                  <l>And with thy Thunder-bolt upon thy Head</l>
+                  <l>Strike thy proud enemies dead,</l>
+                  <l>As though the Thundring <hi>Jove</hi> were hid within a Ram agen.</l>
+                  <l>See where the Mutton-ſtealers run away;</l>
+                  <l>Themſelves as Timerous as their Prey:</l>
+                  <l>And let them go! who at the beſt but ſeem</l>
+                  <l>As much too Hard for Sheep, as VVe for Them.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.</head>
+                  <l>But now grown greedy of a freſh aſſault,</l>
+                  <l>Without the Gallick Fleet they're come agen:</l>
+                  <l>So that their very Navy ſeemed then</l>
+                  <l>(Like its old Admiral) on one Leg to halt.</l>
+                  <l>Their proud Fleet rides o're watry Hills and Dales;</l>
+                  <l>Whilſt they themſelves ſwell bigger than their Sails.</l>
+                  <l>But <hi>MONK</hi> doth all their brags deſpiſe;</l>
+                  <l>
+                     <hi>MONK,</hi> whoſe each Word He breaths, a Tempeſt is.</l>
+                  <l>The trembling <hi>Dutch</hi> already conquer'd ſeem;</l>
+                  <l>Had rather hear our Cannon Speak, than Him.</l>
+                  <l>Nor is brave <hi>MONK</hi> Alone; lo! there</l>
+                  <l>With Him the Valiant Prince doth raign;</l>
+                  <l>They Both do Share the Empire of the Main;</l>
+                  <l>Thus always in the Sea Two Suns appear.</l>
+                  <l>This is that dreadful <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> who</l>
+                  <l>Makes th' Enemies tremble, and his Own Men too.</l>
+                  <l>
+                     <hi>Alcides</hi> clad i'th Lyon's skin</l>
+                  <l>Was but Without, <hi>R<g ref="char:V">Ʋ</g>PERT</hi>'s a Lyon Within.</l>
+                  <l>But Muſe, be ſilent! 'tis as hard a Theme</l>
+                  <l>To Commend <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> as to Conquer him.</l>
+               </lg>
+               <pb n="32" facs="tcp:65521:18"/>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>Come on, brave <hi>Engliſh</hi> then! But firſt let's ſink</l>
+                  <l>The <hi>Belgike</hi> Fleet in Drink.</l>
+                  <l>We'll not alone their Navy over-flow,</l>
+                  <l>But (like the Sea it ſelf) their Country too.</l>
+                  <l>We'll drink a Town</l>
+                  <l>At each Go-down;</l>
+                  <l>A City is but Two or Three;</l>
+                  <l>And a full Glaſs ſhall a whole Province be.</l>
+                  <l>Is the Hogſhead out? Another of the ſame!</l>
+                  <l>Come, come, let the Bung looſe;</l>
+                  <l>By opening This one Sluice</l>
+                  <l>We'll Drown all <hi>Amſterdam.</hi>
+                  </l>
+                  <l>And when that Ebb doth in our Drink begin,</l>
+                  <l>As at Low Water in the Sea,</l>
+                  <l>So Steeples then and Tops of Towns ſhall be</l>
+                  <l>I'th' Bottom of our Glaſſes ſeen.</l>
+                  <l>And yet our Foes too drink about;</l>
+                  <l>Though ſhould you ſee them, you would doubt,</l>
+                  <l>Whether the Hog-head were, the <hi>Dutch-man,</hi> or the Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>They drink ſo deep, you'd almoſt ſwear</l>
+                  <l>The Fiſher-men themſelves the Fiſhes were.</l>
+                  <l>And though the Wine might the Gun's office do,</l>
+                  <l>Split both their Swelling Corps and Brains aſunder,</l>
+                  <l>Yet doth our Cannon tear the Drunkards too;</l>
+                  <l>
+                     <hi>Bacchus</hi> is Slain as well as Born in Thunder.</l>
+               </lg>
+               <pb n="33" facs="tcp:65521:18"/>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>See both the Navies now</l>
+                  <l>Come on; and having with a Ball or two</l>
+                  <l>At diſtance firſt Shook Hands, then to't they go:</l>
+                  <l>The Sun is loſt; and now 'tis Night:</l>
+                  <l>The Sun (of old) to ſee a Fight</l>
+                  <l>Stood ſtill all day;</l>
+                  <l>But whilſt the dreadful <hi>Engliſh</hi> ſought, He Ran away.</l>
+                  <l>From cloudy ſmoak the Thunder breaks aloud,</l>
+                  <l>And <hi>Jove</hi> (as well as <hi>Juno</hi>) too is Hid within a Cloud.</l>
+                  <l>The very Heav'ns ſeem'd of the Noiſe afraid,</l>
+                  <l>Which Brazen Guns and brazen Trumpets made:</l>
+                  <l>A Noiſe, that would not call the Moon</l>
+                  <l>From an Eclipſe, but fright her into one.</l>
+                  <l>The Sea with Smoak is cover'd ſo,</l>
+                  <l>That even <hi>Venus</hi> too</l>
+                  <l>Is Blind as well as <hi>Cupid</hi> now.</l>
+                  <l>Such diſmal Blackneſs all about; you'ld ſwear,</l>
+                  <l>Hell (like the Devils) too were in the Air.</l>
+                  <l>Now <hi>Mars</hi> Alone doth rule o're all,</l>
+                  <l>Is of Both Navies the Sole Admiral:</l>
+                  <l>He ſits the Sov'raign of the Main,</l>
+                  <l>And doth enjoy his <hi>Venus</hi> once again.</l>
+                  <l>The angry Bullets meet and claſh i'th' Air,</l>
+                  <l>Fighting amongſt themſelves Another War.</l>
+                  <l>Our Fleet receives their heavieſt ſhocks;</l>
+                  <l>Yet ſtands as ſtrong, as do the Neighb'ring Rocks;</l>
+                  <l>Firm, and unmov'd: as though</l>
+                  <l>'Twere not a <hi>Floating Delos</hi> only, but a Fix'd one too.</l>
+               </lg>
+               <pb n="34" facs="tcp:65521:19"/>
+               <lg n="11">
+                  <head>XI.</head>
+                  <l>The leaking <hi>Belgian</hi> Fleet with Water fills,</l>
+                  <l>As though its Maſters too it would out-drink:</l>
+                  <l>They all are bor'd ſo full of Holes, you'ld think</l>
+                  <l>The Fiſher-men had turn'd their Ships to Weels.</l>
+                  <l>But when their guns to pierce Our Ships begin,</l>
+                  <l>VVe will not Stop the Holes with Beef, but ramm a <hi>Dutch<g ref="char:EOLhyphen"/>man</hi> in.</l>
+                  <l>And when our Bullets all are out,</l>
+                  <l>VVe'll <hi>Dutch-men</hi> Shoot,</l>
+                  <l>And Kill them with Themſelves;</l>
+                  <l>VVhilſt they our furious rage to ſhun,</l>
+                  <l>Shall fly for Harbour to the Shelves,</l>
+                  <l>And to the Rocks for Death and Safety too ſhall run.</l>
+                  <l>Behold, how thick into the sky</l>
+                  <l>The mangled Limbs of <hi>Belgians</hi> fly;</l>
+                  <l>That ev'n Agen</l>
+                  <l>The Godds (as once of old) might Feaſt on Men.</l>
+                  <l>Here doth a Ship down to the Bottom go;</l>
+                  <l>No more a Ship, but Anchor now.</l>
+                  <l>One flames a while, then into th' Air is blown,</l>
+                  <l>And ev'n the Ship it ſelf's a Gun.</l>
+                  <l>A Burning ſhip ſinks here,</l>
+                  <l>VVhich under water ſhines ſo bright and clear,</l>
+                  <l>You'd think the Sun were Setting there.</l>
+                  <l>The Godds thought Giants were come again, who threw</l>
+                  <l>Not only Trees at Heav'n, but whole VVoods too.</l>
+                  <l>O're all the Ocean nought is ſeen</l>
+                  <l>But Carcaſſes of Ships, and Shackled Hulls of Men.</l>
+                  <l>The Sea is now one Crimſon Flood,</l>
+                  <l>And <hi>Mars</hi>'s Laws (like <hi>Draco</hi>'s) too are writ in Blood.</l>
+               </lg>
+               <pb n="35" facs="tcp:65521:19"/>
+               <lg n="12">
+                  <head>XII.</head>
+                  <l>Scatter'd to Heav'n the burning <hi>Belgians</hi> flew;</l>
+                  <l>Themſelves the Chariots, and the Drivers too:</l>
+                  <l>But down to Hotter Flames they fell;</l>
+                  <l>
+                     <hi>Anti-Elijahs</hi> theſe, flew up to Hell.</l>
+                  <l>Their Ships, which ſeem'd ſuch floating VVhales to be,</l>
+                  <l>Do not their Maſters caſt</l>
+                  <l>Out of the Sea upon the Shore at laſt;</l>
+                  <l>But from their wooden Shores do caſt them in the Sea.</l>
+                  <l>The <hi>French</hi> and <hi>Dutch</hi> together dy,</l>
+                  <l>In VVater and in Blood Twice Drowned ly.</l>
+                  <l>The <hi>Gallick</hi> Nation muſt its Arms diſown;</l>
+                  <l>Their <hi>Lilie</hi>'s Bow-di'd, <hi>Engliſh</hi> Bloud-wort grown.</l>
+                  <l>The <hi>Belgians</hi> ſhall no more their Lyon bear;</l>
+                  <l>For now 'tis plainly ſeen,</l>
+                  <l>That VVe the Lyons were,</l>
+                  <l>And they but Aſſes in the Lyon's Skin.</l>
+                  <l>Fly then, thou heavy Sottiſh <hi>Dutch-man!</hi> Thou</l>
+                  <l>That (like thy Country) art a Quagmire too.</l>
+                  <l>You that like huge <hi>Coloſſes</hi> ſtrut;</l>
+                  <l>That Tall in Thickneſs are, and High ev'n Round About:</l>
+                  <l>That drink, until you do not only Stare</l>
+                  <l>And Double See, but Double Are;</l>
+                  <l>Yet are ſuch Eaters too, that who'ſo ſeeth</l>
+                  <l>Would ſwear (like <hi>Cadmus</hi> Men) you were Begot of Teeth.</l>
+                  <l>Hence then! for <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> if you fly not ſoon,</l>
+                  <l>Will make you (like his Dog) to Swallow Bullets down.</l>
+               </lg>
+               <pb n="36" facs="tcp:65521:20"/>
+               <lg n="13">
+                  <head>XIII.</head>
+                  <l>Lo! now the <hi>Dutch</hi> no longer can withſtand;</l>
+                  <l>With trembling haſt into their Ports they go,</l>
+                  <l>Into their Dorps they fly; as though</l>
+                  <l>The Sea-fight might be fought by Land.</l>
+                  <l>Whilſt the <hi>Thracian</hi> Poet ſings,</l>
+                  <l>Not only Birds, but Trees do Fly;</l>
+                  <l>Their Leaves turn Feathers, and their Branches Wings;</l>
+                  <l>Such was the Power of his Harmony,</l>
+                  <l>That after him not Hares alone,</l>
+                  <l>But ev'n their Burrows and their Foarms too Run.</l>
+                  <l>Lo, <hi>R<g ref="char:V">Ʋ</g>PERT</hi> now doth Wonders great as They:</l>
+                  <l>
+                     <hi>Orpheus</hi> made Woods to Follow him, they ſay;</l>
+                  <l>But <hi>R<g ref="char:V">Ʋ</g>PERT</hi> with his Voice doth make them Fly away.</l>
+                  <l>If that <hi>Salmoneus</hi> now did live and hear'd</l>
+                  <l>Of Thee and Thy dread Fame:</l>
+                  <l>His Brazen Bridge he would have ſpar'd,</l>
+                  <l>And Thunder'd (Dreadful <hi>R<g ref="char:V">Ʋ</g>PERT</hi>) with Thy Name.</l>
+                  <l>So would <hi>Caligula</hi> at Thy Name's found</l>
+                  <l>Not under Bed have hid himſelf, but under Ground:</l>
+                  <l>Had he but <hi>R<g ref="char:V">Ʋ</g>PERT</hi> hear'd, he would not run</l>
+                  <l>To put his Laurel, but his Helmet on.</l>
+                  <l>VVhilſt other Captains ſweat and labour, He</l>
+                  <l>Doth Look a War, doth Breath a Fight, and Speak a Victory.</l>
+               </lg>
+               <lg n="14">
+                  <head>XIV.</head>
+                  <l>VVas ever Prince ſo fam'd in VVars?</l>
+                  <l>No marveil, his Country's Arms do bear a <hi>Mars;</hi>
+                  </l>
+                  <pb n="37" facs="tcp:65521:20"/>
+                  <l>Though ſurely rather He</l>
+                  <l>Himſelf That <hi>Mars</hi> ſhould be.</l>
+                  <l>He ſtands amidſt the thickeſt Shot,</l>
+                  <l>And yet the Bullets touch him not:</l>
+                  <l>Like the <hi>Hyrcanians</hi> who did uſe to ſet</l>
+                  <l>Under the water in the Sea, and ne'r were VVet.</l>
+                  <l>VVhy ſure the Fates made a Decree</l>
+                  <l>That <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> though he would, ſhould never Drowned be:</l>
+                  <l>Some Stars, we know, can never Set i'th' Sea.</l>
+                  <l>How ſhall I, Gallant Prince, Thy glories ſing?</l>
+                  <l>Thou that art like Thy <hi>German</hi> Eagle too;</l>
+                  <l>As that of old bore Arms for <hi>Jove,</hi> ev'n ſo</l>
+                  <l>Thou art the Thunder-bearer to <hi>Great Britain</hi>'s King.</l>
+               </lg>
+               <lg n="15">
+                  <head>XV.</head>
+                  <l>And hail thou Valiant <hi>MONK!</hi> who writes on Thee,</l>
+                  <l>As well as Poet, muſt a Souldier be.</l>
+                  <l>Thou that didſt lately with thy conqu'ring Hands</l>
+                  <l>Lay <hi>Dutch-men</hi> on the Shore as thick as Sands.</l>
+                  <l>When <hi>Charon,</hi> Admiral of the Seas below,</l>
+                  <l>Cry'd out, Why <hi>MONK!</hi> I prithee, what doſt do?</l>
+                  <l>Doſt think, that I have ſuch great Ships as you?</l>
+                  <l>Mine but a <hi>Fanfan</hi> is, you know.</l>
+                  <l>Beſides, theſe <hi>Dutch-men</hi>'s Souls are Heavier far</l>
+                  <l>Than Other Bodies are.</l>
+                  <l>Should I take Many in Together, they</l>
+                  <l>Would Sink, and go to Hell the Nearer way,</l>
+                  <l>And ſo would cheat me of my Pay.</l>
+                  <l>My Boat leaks ſo with Working; as I live</l>
+                  <l>The <hi>Belides</hi> (I fear) anon will claim it for their Sieve.</l>
+                  <pb n="38" facs="tcp:65521:21"/>
+                  <l>And yet Our <hi>Duke</hi> ſome for himſelf doth ſpare,</l>
+                  <l>And with the Grave the Booty ſhare:</l>
+                  <l>How many Captives wait upon Him home!</l>
+                  <l>As though He meant to bring</l>
+                  <l>The <hi>Dutch</hi> In alſo, as He did the <hi>KING.</hi>
+                  </l>
+                  <l>Yet though in ſuch Triumphant State He come,</l>
+                  <l>Unmov'd He ſits, neglects the pompous Shew,</l>
+                  <l>And Triumphs o're his very Triumph too.</l>
+               </lg>
+               <pb n="39" facs="tcp:65521:21"/>
+               <lg n="16">
+                  <head>TO THE KING.</head>
+                  <head>XVI.</head>
+                  <l>BUt You, Great Monarch, ſtill did keep Your Throne;</l>
+                  <l>Nor turn'd Your Scepter to a Gun;</l>
+                  <l>Nor to an Helmet chang'd Your Crown:</l>
+                  <l>You knew the <hi>Belgians</hi> were not worth</l>
+                  <l>Your Arms, and therefore ſent Your Agents forth.</l>
+                  <l>So <hi>Jove</hi> of old, when He would make a Prey</l>
+                  <l>Of the poor ſilly <hi>Phrygian</hi> Boy,</l>
+                  <l>Himſelf ſate ſtill upon His Throne,</l>
+                  <l>And ſent his Winged Standard-bearer down.</l>
+                  <l>To Fight with Foes let Mighty <hi>CHARLES</hi> diſdain;</l>
+                  <l>Let Him but only Think, and they are Slain:</l>
+                  <l>Thus <hi>Pallas</hi> Goddeſs of War was begotten of <hi>JOVE</hi>'s Brain.</l>
+                  <l>Let other Kings go to the Warrs;</l>
+                  <l>Thou may'ſt remain, Great <hi>CHARLES,</hi> at home, and thence.</l>
+                  <l>Deſtroy (like <hi>Titan</hi>) with Thine Influence;</l>
+                  <l>As though Thy Sword (like bright <hi>Orion</hi>'s Sword) were made of Starrs.</l>
+                  <pb n="40" facs="tcp:65521:22"/>
+                  <l>Ah, Mighty <hi>CHARLES!</hi> that Twice our King haſt been,</l>
+                  <l>Both at Thy Fathers Death, and at Thy Coming in:</l>
+                  <l>And may'ſt Thou long ſurvive; and may</l>
+                  <l>The Starrs ſhowr Bleſſings on Thee every day,</l>
+                  <l>Bleſſings as Numberleſs as They.</l>
+                  <l>Thou, <hi>CHARLES,</hi> haſt Travail'd almoſt <hi>Europe</hi> o're;</l>
+                  <l>And mayſt Thou with Thy Victories too Travail it once more.</l>
+                  <l>Let Thy Conqueſt know no Bound;</l>
+                  <l>But mayſt Thou (like Thy Starry Wain) the Globe ſur<g ref="char:EOLhyphen"/>round.</l>
+                  <l>May all Thy Journies be as free</l>
+                  <l>Through Sea and Land as through the Air to Thee,</l>
+                  <l>And may the Poles Thy two <hi>Herculean</hi> Pillars be.</l>
+                  <l>And ſince the <hi>Dutch</hi> no more Great <hi>CHARLES</hi> eſteem,</l>
+                  <l>He ſhall deſtroy them with thoſe Arms, which once Pre<g ref="char:EOLhyphen"/>ſerved them.</l>
+                  <l>So <hi>Phoebus,</hi> darting Rays, the Earth-born <hi>Python</hi> Shot;</l>
+                  <l>And Slew him with the Beams, by which he was begot.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="41" facs="tcp:65521:22"/>
+               <head>On the Great PLAGUE 1665. His Majeſtie Retiring to <hi>Oxford.</hi>
+               </head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>
+                     <hi>ENgland</hi> ſo long enjoy'd her health and eaſe,</l>
+                  <l>Our happineſs grew Tedious, as if</l>
+                  <l>We had been weary of our life,</l>
+                  <l>Or Health it ſelf were a Diſeaſe:</l>
+                  <l>We now could bragge</l>
+                  <l>A King Return'd without a War or Plague,</l>
+                  <l>Which ſeem'd to be</l>
+                  <l>Almoſt as Great a Miracle, as He.</l>
+                  <l>How was our Prince amaz'd that day, to ſee</l>
+                  <l>Such joyful throngs before Him run,</l>
+                  <l>Like crouded Atomes ſporting in the Sun!</l>
+                  <l>The people were ſo healthful then,</l>
+                  <l>Multiply'd ſo every where,</l>
+                  <l>And in ſuch mighty ſwarms appear,</l>
+                  <l>That we almoſt began to fear a Plague of Living Men.</l>
+                  <pb n="42" facs="tcp:65521:23"/>
+                  <l>Scarce a Sick body there was known</l>
+                  <l>Or in the Country, or the Town;</l>
+                  <l>Diſeaſes all were fled, as though</l>
+                  <l>Ev'n the Diſeaſes had been Cured too.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Nor was this all, for we</l>
+                  <l>As well as health had Victorie:</l>
+                  <l>Our forreign Foes we did o'recome,</l>
+                  <l>And Slew as faſt abroad, as we Encreas'd at Home.</l>
+                  <l>But now as on that wretched Town</l>
+                  <l>The morning-Sun ſhin'd bright,</l>
+                  <l>Shedding his gentler beams and milder light,</l>
+                  <l>Where hotter fires did rain e're noon:</l>
+                  <l>So on our Kingdom after all</l>
+                  <l>Its happineſs a Plague did fall;</l>
+                  <l>By whoſe ſtrange Burnings we enflamed are,</l>
+                  <l>Almoſt as bad as they with fire and brimſtone were.</l>
+                  <l>Unto God's ears the crimes of <hi>England</hi> came;</l>
+                  <l>Their Sins were Loud, as was their Fame.</l>
+                  <l>Now having vanquiſhed a Naval foe,</l>
+                  <l>They Launch into the Sea Above, as though</l>
+                  <l>With Valiant Sins they'd conquer Heaven too.</l>
+                  <l>Heav'n did already ſee the Land forlorn,</l>
+                  <l>And every Evening wept and every Morn.</l>
+                  <l>At length our daring crimes were ſuch,</l>
+                  <l>Angels came flying down in armed trains,</l>
+                  <l>Slew all they met; and with as little pains</l>
+                  <l>Deſtroy'd and Conquer'd us, as We the <hi>Dutch.</hi>
+                  </l>
+               </lg>
+               <pb n="43" facs="tcp:65521:23"/>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Michael,</hi> of old by the Almighty choſe</l>
+                  <l>Captain of his Life-guard, aroſe;</l>
+                  <l>To heav'n's Artillery He ſtreight retires,</l>
+                  <l>Takes a bright Sword, and Scabbard bright as That:</l>
+                  <l>The Sword was made of Comets deadly fires;</l>
+                  <l>As Killing as the Flames it ſhould anon Create.</l>
+                  <l>From heav'n the glorious VVarrior withdrew,</l>
+                  <l>Carrying an heaven with him as he flew:</l>
+                  <l>A Mantle of a Cloud he made,</l>
+                  <l>Which in It ſelf he firſt did VVaſh;</l>
+                  <l>Thus was the mighty Conqueror array'd,</l>
+                  <l>And girded with a Rain-bow for a Shaſh.</l>
+                  <l>The Body he aſſum'd, did ſhow</l>
+                  <l>So bright and glorious, as though</l>
+                  <l>His Body were an Angel too.</l>
+                  <l>On a high Steeple He came down,</l>
+                  <l>And there did ſit and thus did moan.</l>
+                  <l>If thou, dear <hi>London,</hi> to thy God wouldſt go,</l>
+                  <l>VVith humble knee and trembling hand,</l>
+                  <l>How glorious how ſecurely mightſt thou ſtand!</l>
+                  <l>Ah would'ſt thou like this ſenceleſs Tower grow!</l>
+                  <l>VVhich doth its Firmneſs in its Trembling ſhow.</l>
+                  <l>If thou, dear City, to thy God wouldſt riſe,</l>
+                  <l>And like this lofty Spire, mount the Skies;</l>
+                  <l>Like its Foundation, thou muſt lie as Low.</l>
+                  <l>How happy, <hi>England,</hi> mightſt thou be</l>
+                  <l>Didſt thou but Fear thy God as much as Other Nations Thee!</l>
+               </lg>
+               <pb n="44" facs="tcp:65521:24"/>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Beloved Iſland! I thy griefs do grieve,</l>
+                  <l>Die over all thy deaths, and feel the wounds I give.</l>
+                  <l>Wouldſt thou but ſeek to heav'n with holy Vows,</l>
+                  <l>This ſword that hangs o're Thee, I'd uſe</l>
+                  <l>In thy Revenge againſt thy forraign Foes.</l>
+                  <l>
+                     <hi>London</hi> repent! what ſhall my Flaming Sword</l>
+                  <l>Deſtroy the <hi>Paradiſe</hi> which it ſhould Guard?</l>
+                  <l>The Plague already doth begin to rage,</l>
+                  <l>Yet would thy tears its fury ſoon aſſwage:</l>
+                  <l>As in the <hi>Pharian</hi> Land although</l>
+                  <l>Never ſo much the Plague encreaſe,</l>
+                  <l>Yet if <hi>Nile</hi> but overflow,</l>
+                  <l>It inſtantly doth Ceaſe.</l>
+                  <l>In vain he ſpoke; for wicked men</l>
+                  <l>Him and the preſent judgement both neglect;</l>
+                  <l>A judgement, like the Air it did Infect,</l>
+                  <l>Which always hangs before our Eyes yet never can be Seen.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>London,</hi> that ſtately Palace, is</l>
+                  <l>A Deſert grown:</l>
+                  <l>When on the <hi>Iſraelites</hi> the Plague did ſeize,</l>
+                  <l>It Found them in a wilderneſs,</l>
+                  <l>Here it Makes one.</l>
+                  <l>
+                     <hi>England</hi> was clear'd of Salvage beaſts in vain,</l>
+                  <l>They're all return'd again:</l>
+                  <l>The People prove the Tyger, Wolf and Bear,</l>
+                  <l>And mad diſtracted Men the wild Beaſts are.</l>
+                  <pb n="45" facs="tcp:65521:24"/>
+                  <l>Our multitudes are grown</l>
+                  <l>From almoſt infinite, to none:</l>
+                  <l>Whilſt we againſt our will do number thoſe remain,</l>
+                  <l>And fear another Plague again.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The Birds do grieve to ſee us dye,</l>
+                  <l>Though in our Deaths their ſafeties lye:</l>
+                  <l>The Swan doth droop his head, and hang his wing;</l>
+                  <l>And will not now His own, but our Death ſing.</l>
+                  <l>The mournful Sparrow grieves in's chirping rime</l>
+                  <l>As ſweet for us, as <hi>Lesbia</hi> once for Him.</l>
+                  <l>The <hi>Philomel</hi> begins her ſong,</l>
+                  <l>Now Thanks her Brother's cruelty and wrong,</l>
+                  <l>VVhich made her Sing the More, by Cutting our her Tongue.</l>
+                  <l>The greedy Crows could not forbear,</l>
+                  <l>Devour'd the Corps and ſtreight infected were,</l>
+                  <l>And do within burn hotter far</l>
+                  <l>Than <hi>Sol</hi> himſelf to whom they Sacred are.</l>
+                  <l>The wretched Bird grew ſo enflam'd, as t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ough</l>
+                  <l>The Sun again were hid within a Crow.</l>
+                  <l>Should the infernal Vulture leave her cell,</l>
+                  <l>And gnaw the ſcorching bowels of the Dead,</l>
+                  <l>He'd ſurely think he fed</l>
+                  <l>Not on <hi>Prometheus</hi> Liver, but on Hell.</l>
+                  <l>The Eagle hates the Sun, and dares not now</l>
+                  <l>Behold it, leſt it ſhould infect Him too:</l>
+                  <l>VVith untry'd eyes he chuſes to remain;</l>
+                  <l>And will not by his Death, his Birth maintain,</l>
+               </lg>
+               <pb n="46" facs="tcp:65521:25"/>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Into the Vallies are the Bodies thrown;</l>
+                  <l>Vallies no more, Mountains of Dead-men grown.</l>
+                  <l>Cattle do men devoure</l>
+                  <l>As greedily as men did Them before.</l>
+                  <l>The Country-man is made a Feaſt</l>
+                  <l>To his own Beaſt;</l>
+                  <l>And now alas</l>
+                  <l>All men without a metaphor are Graſs.</l>
+                  <l>VVhen as the future Age ſhall Plow this ground,</l>
+                  <l>And all theſe Carcaſſes be found,</l>
+                  <l>They'll ſtartle back with fear,</l>
+                  <l>And think that <hi>Cadmus</hi> had been Sowing There.</l>
+                  <l>So fought ſo fell thoſe Sons of earth;</l>
+                  <l>Sharp ſyths, inſtead of ſwords, they bore;</l>
+                  <l>And at their very Birth</l>
+                  <l>Juſt like the Serpent, whence they ſprung, they did Them<g ref="char:EOLhyphen"/>ſelves Devour.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>How falſely do old Poets ſpeak, when they</l>
+                  <l>Their Sun the God of Phyſick call?</l>
+                  <l>VVhen lo we find by his own burning ray</l>
+                  <l>He doth not Cure, but Murder all.</l>
+                  <l>His ſcorching fires do pierce our hearts,</l>
+                  <l>And his Beams wound us deeper than his Darts.</l>
+                  <l>Let him no longer chide his Son</l>
+                  <l>The raſh and giddy <hi>Phaeton;</hi>
+                  </l>
+                  <l>For now we ſee</l>
+                  <l>
+                     <hi>Thoebus</hi> had Burnt the Earth, as well as He;</l>
+                  <pb n="47" facs="tcp:65521:25"/>
+                  <l>With his hot fire has ſcorcht us all,</l>
+                  <l>And is a <hi>Phaeton</hi> without a Fall.</l>
+                  <l>
+                     <hi>Prometheus,</hi> who rob'd <hi>Titan</hi>'s Chariot-wheel,</l>
+                  <l>Might now have had his fire, yet never Steal:</l>
+                  <l>Such fire, with which he had not made a man,</l>
+                  <l>But others and Himſelf had ſlain.</l>
+                  <l>The glorious Starrs admire,</l>
+                  <l>And trembling at the dreadful fight</l>
+                  <l>Of the dead Corps, do looſe their twinkilng light;</l>
+                  <l>So whereſoe're</l>
+                  <l>A Ghoſt doth ſcatter fear,</l>
+                  <l>The Lamps and Candles Diſappear.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Mars</hi> looks upon the dead down from his ſphaere,</l>
+                  <l>Wonders what bloody Conqueror hath been there;</l>
+                  <l>And angry is to See</l>
+                  <l>Himſelf our-done in Cruelty.</l>
+                  <l>The pale-fac'd Moon</l>
+                  <l>Grew paler than the Ghoſts ſhe Lookt upon:</l>
+                  <l>And though ſhe's fixt in heav'n, ſhe ſtill doth fear;</l>
+                  <l>And hardly thinks her ſelf ſecure ev'n There.</l>
+                  <l>Nay ſome men through their Optick-glaſs</l>
+                  <l>Cloſely beholding her bright face,</l>
+                  <l>When her black Spots they view,</l>
+                  <l>They're tempted to believe that She's Infected too.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Ah greedy Plague! muſt <hi>Britain</hi> be thy food?</l>
+                  <l>And muſt thy thirſt be quencht with <hi>Engliſh</hi> blood?</l>
+                  <pb n="48" facs="tcp:65521:26"/>
+                  <l>Unto the <hi>Dutch,</hi> baſe glutton fly!</l>
+                  <l>Thoſe fatter Corps will better feaſt thy Luxury;</l>
+                  <l>Carry to them thy Carbuncles, they'll think</l>
+                  <l>They're only the effects of their Thick Drink:</l>
+                  <l>They'll ne're miſtruſt thoſe Botches to be Thine,</l>
+                  <l>But think they came from their own Brandy-VVine.</l>
+                  <l>Then fly to <hi>France</hi> and rage in every Town,</l>
+                  <l>There thou mayſt kill, and ne're be Known;</l>
+                  <l>Thy Flame on Them may ſafely ſeize,</l>
+                  <l>They'll think it is Their own Diſeaſe:</l>
+                  <l>Yet mighty Conquerour, make not here thy ſtay!</l>
+                  <l>Cut through the <hi>Alpes</hi> though ne'r ſo tall,</l>
+                  <l>And like Another <hi>Hannibal,</hi>
+                  </l>
+                  <l>Melt with thy Flames thoſe Snowy Hills away.</l>
+                  <l>Then forward courteous Plague, and fly</l>
+                  <l>To remote <hi>Sicily;</hi>
+                  </l>
+                  <l>They when they feel thy flames will fear</l>
+                  <l>Another Burning <hi>Aetna</hi>'s near,</l>
+                  <l>Nay, and the very People there</l>
+                  <l>VVill no leſs flames in their own Boſoms bear,</l>
+                  <l>But being burnt by Thee,</l>
+                  <l>The Men themſelves will <hi>Aetnaes</hi> be.</l>
+                  <l>They'll think, when once they feel thy ſcorching pain,</l>
+                  <l>That <hi>Phalaris</hi> had thither brought his Bull Again.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>From thence thou mayſt to <hi>Egypt</hi> fly,</l>
+                  <l>And be Thy ſelf all their Ten Plagues in One:</l>
+                  <l>There raiſe thy Trophies up on high;</l>
+                  <l>And build an huge <hi>Coloſſe</hi> of Carkaſſes, not Stone:</l>
+                  <pb n="49" facs="tcp:65521:26"/>
+                  <l>Why boaſt the proud <hi>Aegyptian</hi> Princes then?</l>
+                  <l>Thou canſt build mighty <hi>Pyramids</hi> of Men.</l>
+                  <l>Nor ſhall'ſt thou need, like them, whole Ages ſtay;</l>
+                  <l>But rear thy Structures in a Day:</l>
+                  <l>Nay, thou a greater Miracle canſt ſhow;</l>
+                  <l>Finiſh thy work, and yet the work-men Slay;</l>
+                  <l>Canſt make them both the Builders and the Building too.</l>
+                  <l>In vain amidſt their fears,</l>
+                  <l>The fooliſh people ſeek</l>
+                  <l>Unto their noyſome and infectious Leek;</l>
+                  <l>Such Godds their Sorrow do encreaſe,</l>
+                  <l>Such Godds Themſelves breed the Diſeaſe;</l>
+                  <l>Thoſe Roots now truely are the cauſe of Tears.</l>
+                  <l>How will thoſe black Inhabitants admire,</l>
+                  <l>When they no longer ſhall be ſmoak but Fire?</l>
+                  <l>Thoſe Mooriſh people (ev'n as Black,</l>
+                  <l>As was the Darkneſs once which did their Land o'reflow)</l>
+                  <l>Still fear the Plague Three Thouſand years ago;</l>
+                  <l>Their own thick Darkneſs on Themſelves they view,</l>
+                  <l>And every Native is the Walking Plague.</l>
+                  <l>On theſe, Great Conquerour, thy fury vent;</l>
+                  <l>Not men, but diſmal Sepulchers that Breath and Talk:</l>
+                  <l>Each hideous Moor's a Living Monument;</l>
+                  <l>And even Tombs themſelves, like Ghoſts, do Walk.</l>
+                  <l>See how the fooliſh Nation wears</l>
+                  <l>Jewels at Noſes Lips and Ears,</l>
+                  <l>Like a black Night ſtuck full with Starrs:</l>
+                  <l>Go then, thou mighty Conquerour,</l>
+                  <l>And add unto their gaudy Store;</l>
+                  <l>Adorn them with Thy Rubies too beſide,</l>
+                  <l>And at once Puniſh and Encreaſe their Pride.</l>
+               </lg>
+               <pb n="50" facs="tcp:65521:27"/>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>But if theſe conqueſts ſeem too vile;</l>
+                  <l>To the Sev'n-mountain'd City take thy flight;</l>
+                  <l>Whoſe proud Tops emulate the Sev'n Heads of <hi>Nile;</hi>
+                  </l>
+                  <l>Thoſe by their Diſtance are unknown, Theſe by their Height.</l>
+                  <l>Hills that ſo Lofty ſeem, as though</l>
+                  <l>They were not only <hi>Rome</hi>'s Foundation, but Heav'ns too.</l>
+                  <l>Theſe the True walls; <hi>Remus</hi> ne'er leapt o're them;</l>
+                  <l>They might have Sooner Strided over Him.</l>
+                  <l>Yet, Proud Diſeaſe, do Thou ſuch ſtops deride;</l>
+                  <l>And Think thy ſelf to th' Other ſide:</l>
+                  <l>There with thy Greater Cruelties evince</l>
+                  <l>That <hi>Sylla</hi> was no Murderer; make <hi>Rome</hi> admire</l>
+                  <l>Their <hi>Nero</hi> for a Mild and Pious Prince;</l>
+                  <l>Set thou the People not the Town on Fire:</l>
+                  <l>And Thou, as well as He,</l>
+                  <l>Shalt hear harmonious tunes,</l>
+                  <l>Both hideous and pleaſant ones;</l>
+                  <l>Sad ſighs and howlings ſhall thy Muſick be,</l>
+                  <l>Thy Elaes are their Shreeks, thy Gamuts are their Groans.</l>
+                  <l>No longer ſhall the <hi>Romans</hi> need</l>
+                  <l>To Burn their dead;</l>
+                  <l>They ſhall Anticipate their Funeral-Fires,</l>
+                  <l>And be Themſelves the Standing Pyres.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>No Magiſtrates in Royal Purple clad</l>
+                  <l>Shall ſit unmoved in the Senate-houſe,</l>
+                  <pb n="51" facs="tcp:65521:27"/>
+                  <l>When they ſhall ſee</l>
+                  <l>Such a Deſtroying Gaul as Thee.</l>
+                  <l>Unto the Deſarts ſhall they flee,</l>
+                  <l>(Like their great Founder <hi>Romulus</hi>)</l>
+                  <l>Shall live amongſt wild beaſts; and only then</l>
+                  <l>Seem like Kings, when they're no Men.</l>
+                  <l>The Veſtal Virgin to her Hearth doth run,</l>
+                  <l>Doth ſtill more fewel on the Altar caſt,</l>
+                  <l>And Fire with Fire Attone:</l>
+                  <l>Then ſilling to her Goddeſs on her knees,</l>
+                  <l>Ala<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhe crys, I that have liv'd ſo Cold and Chaſt,</l>
+                  <l>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, how have I deſerv'd ſuch Flames as Theſe?</l>
+                  <l>Behold, Great Deity!</l>
+                  <l>Behold in what tormenting flames I lye!</l>
+                  <l>Extinguiſh theſe, and Thine ſhall never Dye.</l>
+                  <l>Thus did ſhe pray, but pray'd in vain;</l>
+                  <l>No God in <hi>Rome</hi> dare longer ſtay;</l>
+                  <l>Old heavy <hi>Saturn</hi> ſwiftly fled away</l>
+                  <l>And in his <hi>Latium</hi> Hid himſelf Again.</l>
+                  <l>Great <hi>Jove</hi> doth upwards, like his Eagle, ſoar;</l>
+                  <l>Nor can the raging flames endure:</l>
+                  <l>His Eagle never ſuch a Lightning bore.</l>
+                  <l>And <hi>Juno</hi> too amazed ſtands,</l>
+                  <l>Hates her own Air, and Dreads what ſhe Commands.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Ah cruel Plague! in vain we bid thee go;</l>
+                  <l>In vain do we to heav'n for mercy Sue;</l>
+                  <l>Our holy'ſt Sighs are tainted with the Air,</l>
+                  <l>And we are M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der'd by our very Prayer.</l>
+                  <pb n="52" facs="tcp:65521:28"/>
+                  <l>Nor dare the Prieſt to his own Temple come;</l>
+                  <l>For fear his Pulpit ſhould be made his Tomb;</l>
+                  <l>Nor thinks it fit,</l>
+                  <l>To turn his Surplice to a Winding-ſheet.</l>
+                  <l>The ancient cuſtom's alter'd, we</l>
+                  <l>For life run from the Sanctuarie.</l>
+                  <l>Th' infected people out of Church do fly,</l>
+                  <l>Curſing their very Prayers and Piety:</l>
+                  <l>And of their Godlineſs do more</l>
+                  <l>Repent, than of their very Sins before.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>St. <hi>Paul</hi> on his Cathedral ſtreight looks down,</l>
+                  <l>VVonders to ſee his Church and Quire all gon,</l>
+                  <l>And finds the barbarous Plague to be</l>
+                  <l>A far worſe Perſecutor of the Church, than He.</l>
+                  <l>About his Head a glorious light there ſhone,</l>
+                  <l>As Bright as That at his Converſion;</l>
+                  <l>Able to ſtrike beholders dim</l>
+                  <l>And make them Blind, like Him.</l>
+                  <l>He gaz'd and wonder'd what the cauſe ſhould be;</l>
+                  <l>But ſtreight perceiving us beſpotted, He</l>
+                  <l>Almoſt believ'd 't had been his Leproſie.</l>
+                  <l>No, great Apoſtle! This</l>
+                  <l>Rather thy burning Serpent is.</l>
+                  <l>Organs are dumb; inſtead of their ſweet voice</l>
+                  <l>Nothing but the dreaful noiſe</l>
+                  <l>Of doleful knells;</l>
+                  <l>And paſſing Bells;</l>
+                  <pb n="53" facs="tcp:65521:28"/>
+                  <l>Bells, which do ſtrike the trembling Hearers too</l>
+                  <l>Almoſt as Dead as Thoſe for whom they Go.</l>
+                  <l>Away the Singers ran;</l>
+                  <l>And though before they wiſht and would be Glad,</l>
+                  <l>Yet now they are afraid</l>
+                  <l>Leſt they ſhould Sing like the Melodious Swan.</l>
+                  <l>The mournful Bells do ne're lye ſtill;</l>
+                  <l>
+                     <hi>England</hi> may truely now be call'd the Ringing Iſle.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>The weeping mothers o're their infants ſet,</l>
+                  <l>Hoping with tears t' allay the ſcorching heat.</l>
+                  <l>The Babes are poyſon'd with their tender food,</l>
+                  <l>Their milk is mingled with their Blood:</l>
+                  <l>The Children of <hi>Iſrael</hi> ſo</l>
+                  <l>Unto the Land which did with milk o'reflow</l>
+                  <l>Through a Red-ſea did go.</l>
+                  <l>Infected Mothers Breaſts ſuch flames diſpence,</l>
+                  <l>So hot a mortal Influence,</l>
+                  <l>As though the Milky-way which There appears,</l>
+                  <l>Like that in Heav'n, were nothing elſe but Starrs.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Here doth a little Son</l>
+                  <l>To ask his Father's Bleſſing run:</l>
+                  <l>He Stabs his Father with infectious Air,</l>
+                  <l>And Kills him with a Prayer.</l>
+                  <l>The Child now Doubly feels the raging fire,</l>
+                  <l>And ſees Himſelf Again infected in his Sire.</l>
+                  <pb n="54" facs="tcp:65521:29"/>
+                  <l>The weeping Sire at once doth Bleſs and Chide</l>
+                  <l>The Pious Murderer, the Obedient Paricide.</l>
+                  <l>Children no more with terrour are amaz'd</l>
+                  <l>To hear the Story of <hi>Narciſſus</hi> told,</l>
+                  <l>How the Fair Youth was Drown'd of old;</l>
+                  <l>Fair, as the Nymph in which he gaz'd:</l>
+                  <l>They count his Fate an Happineſs; and do</l>
+                  <l>Ev'n wiſh that They might dye ſo too:</l>
+                  <l>They would rejoyce and think they're bound</l>
+                  <l>To bleſs the very Waters where they're Drown'd.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>By his dead Miſtreſs there a Lover lies;</l>
+                  <l>Who raves and beats himſelf, as if he meant</l>
+                  <l>The Peſtilence to Prevent,</l>
+                  <l>And do Himſelf what was the Plague's intent.</l>
+                  <l>Then looking on his Dear, he cryes,</l>
+                  <l>Ye Godds! why tear you not away theſe Eyes?</l>
+                  <l>I've nothing now to Look upon,</l>
+                  <l>Since that my Fair-ones gon.</l>
+                  <l>The loveli'ſt creatures ſtill do fare the worſt;</l>
+                  <l>Thus Roſes always are Infected Firſt.</l>
+                  <l>Had ſhe not Beauty-ſpots enough before?</l>
+                  <l>Why then, ah curſed Plague, wouldſt thou bring more?</l>
+                  <l>Tell me curſt Plague, tell me!</l>
+                  <l>How could Her Breath Infected be?</l>
+                  <l>Breath that doth Sweeten all where're it comes;</l>
+                  <l>Breath that was able to have cur'd ev'n Thee;</l>
+                  <l>And turn thy Poyſon to Perfumes;</l>
+                  <pb n="55" facs="tcp:65521:29"/>
+                  <l>For when rude winds upon ſweet Flowers Blow,</l>
+                  <l>The winds themſelves are ſweeten'd too.</l>
+                  <l>Ah wretch! and muſt I part with all my bliſs,</l>
+                  <l>VVithout one farewell-Kiſs?</l>
+                  <l>In thoſe ſweet Lips can death or danger be?</l>
+                  <l>Thoſe Lips which often have Recover'd me,</l>
+                  <l>VVhen in Deſpair I've lain as Dead, as Shee:</l>
+                  <l>That face, from which I often Life have took,</l>
+                  <l>How can it Kill me with a look?</l>
+                  <l>O that it could! and like <hi>Meduſa</hi>'s Face,</l>
+                  <l>Transform me to a Stone; that in this place</l>
+                  <l>Embracing thus my Dear-one I might dye,</l>
+                  <l>And on her Corps her Tomb might lye.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>People were now grown almoſt mad,</l>
+                  <l>Cheating and Stealing was the only Trade;</l>
+                  <l>A Sin which to the Plague new Plagues did Adde.</l>
+                  <l>One with his loaden Coffin home doth bye,</l>
+                  <l>Wherein a little afterwards Himſelf doth lye.</l>
+                  <l>Another, when the Plague had clear'd an houſe</l>
+                  <l>At midnight into it he goes;</l>
+                  <l>He ranſacks all he there doth find,</l>
+                  <l>Deſtroys what e're the Plague had left behind.</l>
+                  <l>O how Unhappy is that Nations Doom,</l>
+                  <l>VVhere men themſelves the worſer Peſtilence become?</l>
+                  <l>For whilſt the Plague all other men doth Slay</l>
+                  <l>Theſe by the Peſtilence do Thrive,</l>
+                  <l>And by the very Plague do Live:</l>
+                  <pb n="56" facs="tcp:65521:30"/>
+                  <l>So greedy are they of their wicked pelf,</l>
+                  <l>They ſtrip and Rob the Dead; and ſeize</l>
+                  <l>On the Infected Carkaſſes;</l>
+                  <l>As if they meant to Steal away the Plague It ſelf.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>The Mayor within the City ſtays,</l>
+                  <l>And is Impriſon'd where he Sways;</l>
+                  <l>He hates the glory of his Sword and Mace;</l>
+                  <l>Curſes his Honour and his Place:</l>
+                  <l>He fears his very Guards will him annoy,</l>
+                  <l>And whom they ſhould Protect, Deſtroy.</l>
+                  <l>He ſtrives to get away in vain,</l>
+                  <l>He's fetter'd with his own gold Chain.</l>
+                  <l>Sad and diſconſolate he ſits alone,</l>
+                  <l>Nor will admit too many Waiters on;</l>
+                  <l>He nothing cares for watch or ward,</l>
+                  <l>But thinks he's ſafeſt now Without a Guard.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>But then as if the Plague deſtroy'd too Slow,</l>
+                  <l>And murder'd not enough;</l>
+                  <l>Accurſed Rebels had a Plot begun;</l>
+                  <l>A Plot, which is High-Treaſon but to Think upon.</l>
+                  <l>They Mines of Sulphur get,</l>
+                  <l>To add unto the Plague a fiercer heat.</l>
+                  <l>Fools that they were;</l>
+                  <l>The very Powder which they did prepare,</l>
+                  <l>VVas th'only remedy to cleanſe the Air.</l>
+                  <pb n="57" facs="tcp:65521:30"/>
+                  <l>They had been Courteous thus,</l>
+                  <l>And had not Murder'd but Cur'd us.</l>
+                  <l>Such dull ridiculous Souldiers ſure as Theſe</l>
+                  <l>Were never known, who chuſe</l>
+                  <l>Weapons that may not Hurt their foes,</l>
+                  <l>Who fight not to Deſtroy, but Save their Enemies.</l>
+                  <l>Here was a valiant Troop indeed!</l>
+                  <l>Of Living Souldiers now there was no need,</l>
+                  <l>VVe could have overcome theſe with our Dead:</l>
+                  <l>A mighty army ſure! where one</l>
+                  <l>Dead Infant could have made them Run.</l>
+                  <l>And yet ſuppoſe they'd got the better then,</l>
+                  <l>Still had they Conquer'd been;</l>
+                  <l>The Spoils they plunder from the ſlain</l>
+                  <l>Infect and murder them Again.</l>
+                  <l>And they who are the Conquerours do Fly;</l>
+                  <l>Deſtroy'd and Overcome by their own Victory.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Famine beholding what was done,</l>
+                  <l>Roſe up in rage, and thus begun:</l>
+                  <l>So many Thouſands, and not One for me?</l>
+                  <l>Have I ſo long, O Death, thee ſerv'd?</l>
+                  <l>Have I ſo often Feaſted thee,</l>
+                  <l>And muſt I now my ſelf be Sterv'd?</l>
+                  <l>Haſt thou a purpoſe to deſtroy?</l>
+                  <l>Thou ſhouldſt not Peſtilence, but Me employ.</l>
+                  <l>Me, who can Kill that very Peſtilence; Me,</l>
+                  <l>VVho to the Plague It ſelf a Plague can be.</l>
+                  <pb n="58" facs="tcp:65521:31"/>
+                  <l>Should I but rage, the famiſht people ſtreight</l>
+                  <l>The dead infected Carkaſſes would Eat;</l>
+                  <l>They'd tremble at the Plague no more,</l>
+                  <l>But would the Plague it ſelf Devour,</l>
+                  <l>And Glut on Him as He on Them before.</l>
+                  <l>'Tis I can make each Father be</l>
+                  <l>
+                     <hi>Thyeſtes,</hi> and devour his Progenie:</l>
+                  <l>I can make men on their Own bodies feaſt,</l>
+                  <l>And be Themſelves the Banquet and the Gueſt.</l>
+                  <l>Should I my powerful anger ſhow,</l>
+                  <l>Not only Men but Godds would tremble too.</l>
+                  <l>Should I aſcend to heav'n, and take away</l>
+                  <l>The Godd's <hi>Ambroſia,</hi>
+                  </l>
+                  <l>The Godds themſelves, I fear,</l>
+                  <l>Would Famiſh, though they never ſo Immortal are.</l>
+                  <l>No more would hungry <hi>Jove</hi> his Eagle ſpare;</l>
+                  <l>But kill her with the Thunder ſhe doth Bear.</l>
+                  <l>And <hi>Juno</hi> wanting whereupon to feed,</l>
+                  <l>Would quickly turn to Air, and be a Cloud indeed.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>She ſpoke, and ſtreight the hungry people dye,</l>
+                  <l>Meet a worſe Death than that they flye:</l>
+                  <l>The Famine doth not Quickly ſlay;</l>
+                  <l>But kills, like Salvage Tyrants, with Delay:</l>
+                  <l>In ling'ring pains they looſe their breath,</l>
+                  <l>As if they Liv'd a Death.</l>
+                  <l>They wiſh the Plague, they cannot Get;</l>
+                  <l>And Envy thoſe who Dye with it.</l>
+                  <pb n="59" facs="tcp:65521:31"/>
+                  <l>Here's one with ſuch thin hollow Cheeks, you'd ſay</l>
+                  <l>His Teeth had Eat his Cheeks away.</l>
+                  <l>Here's one with Legs ſo thin and bare,</l>
+                  <l>That ev'n the naked Bones appear;</l>
+                  <l>So that you'd think, they not his Legs but Crutches were.</l>
+                  <l>Painters their art now needleſs find</l>
+                  <l>To paint a Lady with grim Death behind:</l>
+                  <l>She takes her Looking-glaſs,</l>
+                  <l>Startles to See ſhe hath no Eyes;</l>
+                  <l>Affrighted at her hollow face,</l>
+                  <l>Bluſhes to ſee her cheeks in Pale diſguiſe;</l>
+                  <l>And Her ſelf now</l>
+                  <l>Is both the Lady and Death too.</l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>People no more frequent the Theatre,</l>
+                  <l>Since this new Tragedy began to rage;</l>
+                  <l>A Tragedy ne're heard of, where</l>
+                  <l>All the People Actors are,</l>
+                  <l>And all the City is the Stage.</l>
+                  <l>We act a while, and then we have</l>
+                  <l>Our <hi>Exit,</hi> and retire into the grave:</l>
+                  <l>Only in this, out far worſe doom</l>
+                  <l>From Players is diſtinguiſhed,</l>
+                  <l>For we, alas, are Dead</l>
+                  <l>Both on the Stage and in the Tyring-room.</l>
+                  <l>The Royal Theatre is empty Seen,</l>
+                  <l>Nor dare the boldeſt Gallant enter in;</l>
+                  <l>He fears the Lamps will Funeral-Torches be;</l>
+                  <l>And they ſhall. Act the Tragick-Play, they only came to See.</l>
+               </lg>
+               <pb n="60" facs="tcp:65521:32"/>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>Death's writ in blood on every door;</l>
+                  <l>Red Characters on our Poſts are ſigns of Life no more.</l>
+                  <l>Some without Nurſes helpleſs lye,</l>
+                  <l>Yet knowing well their cruelty,</l>
+                  <l>VVill ſuffer none come nigh;</l>
+                  <l>But rather than with Two, they will with One Plague dy.</l>
+                  <l>Before each houſe are Bone-fires made;</l>
+                  <l>As though they meant, as once of old, to Burn their Dead.</l>
+                  <l>Strange way methinks is this</l>
+                  <l>VVith Fires to Cure an Hot Diſeaſe.</l>
+                  <l>VVas ever ſickneſs like to This endur'd,</l>
+                  <l>VVhich can by nothing but It ſelf be cur'd?</l>
+                  <l>How can we hope that Smoak ſhould Clear,</l>
+                  <l>VVhich is the only thing that Clouds the Air?</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>Strange Conqueror ſure is that, who with more eaſe</l>
+                  <l>Defeats his Strong than weaker enemies;</l>
+                  <l>Yet ſuch an one is this Diſeaſe:</l>
+                  <l>Old men do live ſecure and ſafe,</l>
+                  <l>And they who neareſt are, are fartheſt from the Grave.</l>
+                  <l>Should but the Plague begin</l>
+                  <l>VVith his hot fires and burning pains</l>
+                  <l>To heat their blood and warm their veins,</l>
+                  <l>They would Rejoyce, and think they're growing Young agen.</l>
+                  <l>The ſtrong and luſty dye at their beſt time;</l>
+                  <l>VVhen Youth is at its height, and life is in its prime.</l>
+                  <l>So an Eclipſe is never known</l>
+                  <l>But at Full Moon;</l>
+                  <l>Thus Shadows always ſhorteſt are at Noon.</l>
+               </lg>
+               <pb n="61" facs="tcp:65521:32"/>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>The Drunkard felt the raging flame begin,</l>
+                  <l>And ſwore he'd put it out with wine.</l>
+                  <l>The Grape that oft Diſtemper'd him before,</l>
+                  <l>Doth now his health and life reſtore:</l>
+                  <l>Thus is he quicken'd by the ſtrange device,</l>
+                  <l>And (like his <hi>Bacchus</hi>) is begotten Twice.</l>
+                  <l>Then he prepares the Grave to cheat;</l>
+                  <l>Stead of himſelf, buries his Winding-ſheet.</l>
+                  <l>Such a deceit did <hi>Charles</hi> the Fifth contrive,</l>
+                  <l>He to his Herſe all funeral-rites did give;</l>
+                  <l>But 'twas his Coffin only Dy'd, himſelf was yet Alive.</l>
+                  <l>The Gameſters view'd themſelves and were diſmay'd,</l>
+                  <l>For all their faces and their bodies o're</l>
+                  <l>They now black ſpots and patches wore,</l>
+                  <l>And Lookt juſt like the Dice with which they Play'd.</l>
+                  <l>In vain they meet at Ordinaries, when</l>
+                  <l>Amongſt them in the room</l>
+                  <l>A ſtrange unheard-of Gameſter there was come;</l>
+                  <l>Who did not play for Money, but for Men.</l>
+                  <l>The Luſtful man who burns with hot deſire,</l>
+                  <l>Felt a new Flame burn hotter than his Luſt:</l>
+                  <l>And ſure the heavens were juſt,</l>
+                  <l>To ſend the Plague on Him, and Puniſh Fire with Fire.</l>
+                  <l>Oft he on <hi>Venus</hi> call'd, yet could not She</l>
+                  <l>Allay his flames, although begotten of the Sea.</l>
+                  <l>In vain on <hi>Cupid</hi> doth he cry;</l>
+                  <l>Well did He know, and therefore comes not nigh,</l>
+                  <l>That chiefly in a Plague the Little Children Dye.</l>
+               </lg>
+               <pb n="62" facs="tcp:65521:33"/>
+               <lg n="28">
+                  <head>28.</head>
+                  <l>We laught at all Diſeaſes elſe; for they,</l>
+                  <l>Like leſſer guns, but one a time do ſlay;</l>
+                  <l>This, like whole Cannon, tears whole Troops away.</l>
+                  <l>Here's one doth in a ſhivering Ague lye,</l>
+                  <l>Would Dance and Leap, not Tremble, ſhould the Plague come nigh.</l>
+                  <l>Here Swims another in a Dropſie, who</l>
+                  <l>Himſelf doth ſeem to be</l>
+                  <l>Both his own Ship and Sea,</l>
+                  <l>Who is both <hi>Tantalus</hi> and the water too.</l>
+                  <l>He at the burning Plague does laugh;</l>
+                  <l>Thinks in his VVaters he is ſafe.</l>
+                  <l>The Dropſie though in time it ſelf be ſure</l>
+                  <l>To Kill him, keeps him from the Plague ſecure;</l>
+                  <l>Is both his Life-guard and his Murderer:</l>
+                  <l>Small comfort in the change is found;</l>
+                  <l>He eſcapes Burning, only to be Drown'd.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>Some did their Dead in Gardens throw;</l>
+                  <l>And on the Corps grew Flowers all along,</l>
+                  <l>Decking the Bodies whence they ſprung;</l>
+                  <l>Flowers, as Fading as the Corps from which they Grow.</l>
+                  <l>The Dead who buried be</l>
+                  <l>Within theſe Gardens do</l>
+                  <l>Safer keep Theſe,</l>
+                  <l>Than the <hi>Heſperian</hi> Dragon His;</l>
+                  <l>Nay, and with Flames far worſe than He;</l>
+                  <l>Flames able to Conſume Him, and his Fires too.</l>
+                  <pb n="63" facs="tcp:65521:33"/>
+                  <l>Thus did they hide the Dead,</l>
+                  <l>And every Garden a Church-yard was made.</l>
+                  <l>Often, alas, the wretched people thought</l>
+                  <l>Upon the cuſtoms and the times before;</l>
+                  <l>How that the Dead of old were wafted o're</l>
+                  <l>The <hi>Stygian</hi> Lake in <hi>Charon</hi>'s Boat:</l>
+                  <l>And oh, how do they wiſh, that alſo now</l>
+                  <l>Over That River they might go;</l>
+                  <l>For in thoſe VVaves having allay'd their heat and pain,</l>
+                  <l>They did almoſt believe they ſhould Revive again.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>Spots on their bodies did appear, as though</l>
+                  <l>The angry Sun</l>
+                  <l>Had not on them ſent forth his Beams alone,</l>
+                  <l>But his Spots too.</l>
+                  <l>Ladies wear Patches not to Grace,</l>
+                  <l>But to Hide their bluſhing face.</l>
+                  <l>Their cheeks which lately painted were with Red</l>
+                  <l>In ſable colours now are clad:</l>
+                  <l>So in an Evening you might ſee the Sun</l>
+                  <l>Setting in Purple Bluſhes, yet anon</l>
+                  <l>A dark and blacker Night comes on.</l>
+                  <l>Their Beauty in thoſe Sable weeds adorn'd</l>
+                  <l>Did ſeem, as if for Its own Death it mourn'd<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Thoſe Clouds ariſing in that Sky,</l>
+                  <l>Truly foretold a Tempeſt nigh:</l>
+                  <l>VVhen the Black Sails we ſee appear,</l>
+                  <l>VVe, like <hi>Aegeus,</hi> needs muſt fear</l>
+                  <l>Death and Deſtruction near</l>
+                  <pb n="64" facs="tcp:65521:34"/>
+                  <l>The people's whiter skins were ſpeckled o're,</l>
+                  <l>And all the common Rout the Royal Ermine wore.</l>
+                  <l>And Black Spots now</l>
+                  <l>Don't only ſhow</l>
+                  <l>(As 'tis in Maps) the Places, but the People too.</l>
+               </lg>
+               <lg n="31">
+                  <head>31.</head>
+                  <l>Hold nimble Muſe!</l>
+                  <l>Check the looſe rains, and ſtop thy hafty ſpeed!</l>
+                  <l>Ah wherefore (like that <hi>Roman</hi> Lady) thus</l>
+                  <l>Lov'ſt thou to drive thy Chariot o're the Dead?</l>
+                  <l>Alas, dear Muſe, thou ſpendſt thy time in vain;</l>
+                  <l>Nor wilt thou Laurel here, but Cypreſs gain.</l>
+                  <l>Thou'lt meet with nothing here but tears, and ſighs, and woes;</l>
+                  <l>Where're thou ſtrik'ſt thy Foot, a Fountain flows:</l>
+                  <l>And muſt thy Noble <hi>Pegaſus</hi> then</l>
+                  <l>(Like <hi>Diomedes</hi> Steeds) be Fed with Men?</l>
+                  <l>Thou that canſt with mighty lays</l>
+                  <l>Another <hi>Thebes</hi> for thy Great Maſter <hi>Pindar</hi> raiſe;</l>
+                  <l>Whilſt Towers (like their Guards within) advance;</l>
+                  <l>And Marbles nimbly, as thy Strings, would Dance:</l>
+                  <l>Now thy breath in vain conſumes;</l>
+                  <l>Nor wilt thou Here Build Walls or Palaces, but Tombs.</l>
+                  <l>In urnes and graves ſuch pleaſure to be had?</l>
+                  <l>Doſt thou, like <hi>Orpheus,</hi> Sing among the Dead?</l>
+                  <l>And ſhall the Laurel which adorns thy brow</l>
+                  <l>Only on Graves (like fatal <hi>Mandrake</hi>) grow?</l>
+                  <l>Come, come, fond Muſe, away!</l>
+                  <l>See where on <hi>Thames</hi> thy guilded Barge does ſtay;</l>
+                  <l>Let it to <hi>Iſis</hi> thee convey:</l>
+                  <pb n="65" facs="tcp:65521:34"/>
+                  <l>Thy <hi>Phoebus</hi> Steers thee; and thy Barge ſhall move.</l>
+                  <l>Swift as Himſelf doth Sail i'th' Cryſtal <hi>Thames</hi> Above.</l>
+                  <l>And whilſt to Mighty <hi>CHARLES</hi> thou cut'ſt the ſtream,</l>
+                  <l>The Silver Swans by thy Barge-ſide ſhall ſwim.</l>
+                  <l>Singing, Like Thee; and Crown'd, Like Him.</l>
+               </lg>
+               <lg n="32">
+                  <head>32.</head>
+                  <l>The Muſe retiring to her Native Town</l>
+                  <l>Streight clapt her wings, and back again ſhe flew:</l>
+                  <l>So Bright a Majeſty She could not view;</l>
+                  <l>The Bird of <hi>Athens</hi> looks not on the Sun.</l>
+                  <l>What dazling Lights do there</l>
+                  <l>From yonder Coach appear?</l>
+                  <l>'Tis <hi>CHARLES</hi> his Chariot comes, and in it move</l>
+                  <l>As Glorious Stars as in His Wain above.</l>
+                  <l>Behold the King himſelf, and the Queen too!</l>
+                  <l>The World upon an Axle-Tree moves truly now.</l>
+                  <l>Did but the Sun this Glorious Train eſpy,</l>
+                  <l>He would believe he had Miſtook the Sky,</l>
+                  <l>And think that This is Heav'n Below.</l>
+                  <l>Yonder's that Wondrous Monarch, who Defeats</l>
+                  <l>Both forraign Foes, and native Wits:</l>
+                  <l>VVho on a Tripos of Three Kingdoms ſits,</l>
+                  <l>And (like <hi>Apollo</hi>) at once Inſpires Poets, and makes them Mad:</l>
+                  <l>So whilſt the Sun doth in his Chariot go,</l>
+                  <l>And on the Stars around his beams are ſhed,</l>
+                  <l>He both Enlightens, and Obſcures them too.</l>
+                  <l>VVhat joys, Great Sir, to us You bring!</l>
+                  <l>Bells for the Dead at <hi>London</hi> ſhall not Ring</l>
+                  <l>So faſt as ours to welcome here our King.</l>
+                  <pb n="66" facs="tcp:65521:35"/>
+                  <l>How do thoſe wretched people moan!</l>
+                  <l>Not that they Dye, but that their Prince is Gone:</l>
+                  <l>They only grieve that <hi>CHARLES</hi> away is driv'n;</l>
+                  <l>Hell's greateſt Torment is the loſs of Heav'n.</l>
+               </lg>
+               <lg n="33">
+                  <head>33.</head>
+                  <l>Since unto us, Great Monarch, you reſort,</l>
+                  <l>Each Colledge ſhall a Sanctuary ſtand,</l>
+                  <l>Shall be at once a Temple and a Fort,</l>
+                  <l>To Guard You from the Foe by Sea, and from the Plague by Land.</l>
+                  <l>VVith Charming Verſe (like Conjurers) we'll lay</l>
+                  <l>The Stalking Belgick Foe i'th' bottome of the Sea:</l>
+                  <l>With Armed Rymes we will the foe diſperſe,</l>
+                  <l>(Like <hi>Iriſh</hi> Rats) we'll Murder them with Verſe.</l>
+                  <l>Like mighty <hi>Nero,</hi> that Poetick King,</l>
+                  <l>We'll Burn their Floating City, whilſt we Sing.</l>
+                  <l>
+                     <hi>Pindar</hi> himſelf, Great <hi>CHARLES,</hi> ſhall Fight for Thee,</l>
+                  <l>Marſhal his Forces under thy command:</l>
+                  <l>He (whoſe fam'd Houſe a Garriſon did ſtand,</l>
+                  <l>And ſtopt that mighty Conqueror's hand)</l>
+                  <l>Squadrons of Stanzaes he ſhall bring; and be</l>
+                  <l>As Famous for his VVars and Victories as He.</l>
+                  <l>Thus the Ancients very fit</l>
+                  <l>Made <hi>Pallas</hi> Goddeſs both of War and VVit.</l>
+                  <l>Thus Poets like Great <hi>Caeſars</hi> do appear;</l>
+                  <l>One Hand a Poem, th' other a Sword doth bear.</l>
+                  <l>The valiant Troops unto the Sea do throng,</l>
+                  <l>And Drown their foes (like <hi>Syrens</hi>) with a Song.</l>
+                  <l>Thither couragiouſly they go;</l>
+                  <l>Conquer, and Sing their Conqueſts too.</l>
+                  <pb n="67" facs="tcp:65521:35"/>
+                  <l>Down all oppoſers, like the Main, they Beat;</l>
+                  <l>And gain a Fame as Boundleſs too, as That:</l>
+                  <l>No wonder <hi>Phoebus</hi> God of Poetry</l>
+                  <l>Doth Riſe ſo glorious from the Sea.</l>
+               </lg>
+               <lg n="34">
+                  <head>34.</head>
+                  <l>But ah, juſt Heavens, as for that other Foe,</l>
+                  <l>Your ſelves have brought, as if you meant to ſhow</l>
+                  <l>That none ſhould boaſt a Conqueſt over <hi>CHARLES,</hi> but You:</l>
+                  <l>Enough, enough, we quit the field;</l>
+                  <l>'Tis Piety and Valor here to Yeild:</l>
+                  <l>Not others, but our ſelves we Conquer now;</l>
+                  <l>And Victors are, good Heavens, as well as You:</l>
+                  <l>So doth the Palm Ariſe by Bowing down;</l>
+                  <l>Not unto Other Conquerors alone,</l>
+                  <l>But to its ſelf becomes a Palm, and its Own Head doth Crown.</l>
+                  <l>So <hi>Daphne</hi> once purſu'd by the bright God of day,</l>
+                  <l>Became a Laurel while She Fled away.</l>
+                  <l>When Heaven it ſelf begins to war,</l>
+                  <l>He the beſt Souldier is who moſt doth Fear;</l>
+                  <l>That lies perdue upon the ground in Prayers,</l>
+                  <l>Fills up the Trenches with his Tears;</l>
+                  <l>Shoots ardent Sighs; and ſtead of guns</l>
+                  <l>Diſcharges Vollies of deep Groans.</l>
+                  <l>Thus doth our Monarch wage His Holy VVarrs,</l>
+                  <l>Counts it the nobleſt Onſet when He Flies,</l>
+                  <l>By Proſtrating Himſelf He Climbs the Scarrs;</l>
+                  <l>And Riſeth nearer up to Heav'n, by Falling on His Knees.</l>
+                  <l>Behold, the Mighty power of <hi>CHARLES</hi> his Prayers!</l>
+                  <l>For Heaven it ſelf is Conquer'd with his Tears:</l>
+                  <pb n="68" facs="tcp:65521:36"/>
+                  <l>Thus Heaven and Starrs Above do ſhow,</l>
+                  <l>But yet are in the VVaters ſeen Below.</l>
+               </lg>
+               <lg n="35">
+                  <head>35.</head>
+                  <l>Such was our Prince's pious care,</l>
+                  <l>
+                     <hi>London</hi> with <hi>Oxford</hi> did its Monarch ſhare;</l>
+                  <l>For <hi>Thames</hi> and <hi>Iſis</hi> but one River are.</l>
+                  <l>When He departs, with joyful heavy mind,</l>
+                  <l>He leaves Himſelf in His Fair Queen behind.</l>
+                  <l>Thus when our <hi>Athens</hi> did Great <hi>Neptune</hi> looſe,</l>
+                  <l>
+                     <hi>Minerva</hi> for its Guard aroſe.</l>
+                  <l>To You, Great Queen, returns our Trembling Muſe;</l>
+                  <l>One only Smile She begs thus low;</l>
+                  <l>And thinks Her ſelf a Queen, if She might VVorſhip You.</l>
+                  <l>Her Preſents merit no eſteem,</l>
+                  <l>Unleſs made Pretious by Your Royal Beam:</l>
+                  <l>So when the Sun doth gentle Raies beſtow</l>
+                  <l>On ſome dull Vapour in the Skies below,</l>
+                  <l>Of a dark Cloud He makes a Glorious Bow.</l>
+                  <l>But Pardon, you Divineſt Pair,</l>
+                  <l>That thus my Humble Muſe ſhould dare</l>
+                  <l>Before ſuch Royal Majeſties appear:</l>
+                  <l>Thus the Lark's Tenant both of Earth and Skies;</l>
+                  <l>No Bird Lies Lower, and none Higher Flies.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65521:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
